@@ -118,9 +118,9 @@ Permissions:
 2) group --rwx -7
 3) Others --rwx -7
 
-	R-->Read     -->4
-	W-->Write    -->2
-	X-->execute  -->1
+1) R-->Read     -->4
+2) W-->Write    -->2
+3) X-->execute  -->1
 
 --> File Permission will be depend on the Umask number by default umask number is 0022.
 --> Default umask number for file is 0666 & Default umask number for directory is 0777.
