@@ -122,8 +122,7 @@ Permissions:
 	2) W-->Write    -->2
 	3) X-->execute  -->1
 
-	File Permission will be depend on the Umask number by default umask number is 0022.
-	Default umask number for file is 0666 & Default umask number for directory is 0777.
+	File Permission will be depend on the Umask number by default umask number is 0022 and default umask number for file is 0666 & Default umask number for directory is 0777.
 
 For Directories:
 ---------------
