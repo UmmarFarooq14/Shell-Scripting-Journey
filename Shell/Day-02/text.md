@@ -171,4 +171,73 @@ chgrp:
 
 command:
 --------
-	chgrp group_name file_name
+	chgrp group_name file_name.
+
+
+cat:
+----
+	Is used to display the content inside the file and creation of file and also concatenate.
+
+Fetures of cat:
+---------------
+
+	cat file-name                                  # It will display the data inside the file.
+	cat > file-name                                # It will create and adds the data inside the file. (ctr+d)
+	cat file-name1 > file-name2                    # It will over-write the data in file-name2 with data in file-name1.
+	cat file-name1 >> file-name2                   # It will append the data of file-name2 with data file-name1.
+	cat file-name1 file-name2 > file-name3         # It will add the data of file-name1 & file-name2 into file-name3.
+
+less:
+-----
+	view file (Scorable) 
+
+command:
+--------
+	less file-name
+
+
+
+more:
+-----
+	view file (like less, but it is older)
+
+command:
+--------
+	more file-name
+
+
+
+head:
+-----
+	It will diaplay the first few lines.
+
+
+Feature of head:
+----------------
+	head file-name               # It will display the first 10 lines of a file.
+	head -n 5 file-name          # It will display the first 5 lines of a file.
+
+
+
+tail:
+-----
+	It will display the bottom 10 lines.
+
+
+Fetaures of tail:
+-----------------
+
+	tail file-name              # It will display the bottom 10 lines.
+	tail -n 6 file-name         # It will display the bottom 6 lines.
+
+
+
+echo:
+-----
+	print text to a terminal.
+
+Features of echo:
+-----------------
+	echo -n      # Don't add a new line at the end.
+	echo -e      # Allow special characters like '/n' for a new line.
+	echo -E      # Don't allow special characters/disables the use of backslash escapes.
