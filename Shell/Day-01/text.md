@@ -52,7 +52,7 @@ There are 4 ways to executable a Shell Script:
 
 Steps to run the shell script:
 ------------------------------
-Step-1: Create a filename/directory and add extension as .sh.
+Step-1: Create a file/directory and add extension as .sh.
 
 
 To create a file:
