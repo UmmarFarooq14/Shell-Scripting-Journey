@@ -59,15 +59,15 @@ To create a file:
 ----------------
 command:
 --------
-	touch file-name.
-	cat > file-name.
-	vi/vim file-name. 
+	touch file-name.sh
+	cat > file-name.sh
+	vi/vim file-name.sh 
 
 To create a directory:
 ----------------------
 command:
 -------
-	mkdir -pv directory-name.
+	mkdir -pv directory-name.sh 
 
 1) -p ---> to create as a parent directory.
 2) -v ---> to display the message of directory is created.
@@ -77,7 +77,7 @@ Step-2: Insert Linux commands/ text inside the file.
 
 Ex:-
 ----
-	vi file-name
+	vi file-name.sh 
 --> It will open the file in vi editor--> Press i (To change into insert mode) --> then add the text --> press :wq!(w-->save, q--> quit).
 
 
