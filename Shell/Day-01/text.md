@@ -20,7 +20,7 @@ To display the shells installed in OS:
 command:
 --------
 
-cat /etc/shells
+	cat /etc/shells
 
 
 To display the current shell:
@@ -28,7 +28,7 @@ To display the current shell:
 command:
 -------
 
-echo $SHELL
+	echo $SHELL
 
 
 Shell Scripts:
