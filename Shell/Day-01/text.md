@@ -4,7 +4,7 @@ What is Shell:
 
 What is Bash:
 ------------
-	Bash is default shell present in the Linux/Unix/Ubuntu to execute the commands and scripts in OS & Bash(Bourne Again Shell) is the updated version sh(Bourne Shell).
+	Bash is default shell present in the Linux/Centos/Ubuntu to execute the commands and scripts in OS & Bash(Bourne Again Shell) is the updated version sh(Bourne Shell).
 
 Types of Shells:
 ---------------
