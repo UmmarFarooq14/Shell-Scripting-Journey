@@ -128,23 +128,23 @@ X-->execute  -->1
 For Directories:
 ---------------
 
-                               0777
-	                             0022
-                              ------
-Default dir permission:	       0755
-                              ------
+                                   0777
+	                               0022
+                                  ------
+	Default dir permission:	       0755
+                                  ------
 
 For File:
 ---------
 
 
-                             0666
-                             0022
-                            -------
-Default file permission:     0644 
-                            -------
+                                 0666
+                                 0022
+                                -------
+	Default file permission:     0644 
+                                -------
 
---> We can the file permission using a chmod command.
+--> We can change the file permission using a chmod command.
 
 command:
 --------
@@ -162,7 +162,7 @@ chown:
 command:
 --------
 	sudo chown newuser file.txt        # change owner
-  sudo chown newuser:newgroup file.txt
+	sudo chown newuser:newgroup file.txt
 
 
 
