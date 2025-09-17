@@ -171,7 +171,7 @@ chgrp:
 
 command:
 --------
-	chgrp :group_name file_name.          # It change the owner-ship of a group for a file.
+	chgrp :group_name file_name.         # It change the owner-ship of a group for a file.
 	chgrp -R developers project_dir/     # If I want to chnage the group for a directory and inside the files.
 	chown -R :developers project_dir/    # Same by using Chown command
 
