@@ -196,9 +196,9 @@ command:
 --------
 	man ls
 
---> press space to scroll down.
---> press b to scroll up.
---> press q to quit.
+1) press space to scroll down.
+2) press b to scroll up.
+3) press q to quit.
 
 
  
