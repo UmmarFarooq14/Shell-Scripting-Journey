@@ -147,14 +147,14 @@ script-2: For Failure
 script-3: To check the file is exit or not exist in server.
 ---------
 
-ls /etc/passwd
+	ls /etc/passwd
 
-if [ $?  -eq 0]
-then
-    echo "File is exist!."
-else
-    echo "File is not exist!."
-fi 
+	if [ $?  -eq 0]
+	then
+   	 	echo "File is exist!."
+	else
+    	echo "File is not exist!."
+	fi 
 
 
 which command:
