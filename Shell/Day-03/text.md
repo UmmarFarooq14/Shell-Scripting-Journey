@@ -145,6 +145,7 @@ script-2: For Failure
 	echo $?
 
 script-3: To check the file is exit or not exist in server.
+---------
 
 ls /etc/passwd
 
