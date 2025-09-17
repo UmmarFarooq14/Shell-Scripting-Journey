@@ -93,21 +93,19 @@ script-2: reading the two numbers
 script-3: silent Input (It won't display the password on terminal)
 -------- 
 
-	echo -s "enter the password:"
-	read passwd
+	read -s -p"enter the password:" passwd
 	echo -n "The password is: $passwd"
 
 
 script-4: with prompts without read
 -------- 
-	read -p "Enter the city:" $city
+	read -p "Enter the city:" city
 	echo "My city is: $city."
 
 
 script-5: set time-out for Input.
 --------
-	echo -t 5 "Enter the software you are learning:"
-	read "software-name"
+	read -t 5 -p "Enter the software you are learning:" software-name
 	echo "I'm learning a:$software-name."
 
 script-6: Limit Input upto N-character.
