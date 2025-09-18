@@ -70,6 +70,13 @@ comments in shell scripting:
    	echo "The number is: $num"
    	comment
 
+	: '
+	echo "enter the number:"
+   	read num
+   	echo "The number is: $num"
+	'
+ 	
+
 
 4) In-line comment:
    ----------------
