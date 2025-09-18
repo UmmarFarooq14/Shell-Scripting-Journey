@@ -58,7 +58,7 @@ comments in shell scripting:
 1) Single-line comment:
    --------------------
 --> For single-line comment we use '#'.
-	# !bin/bash          
+		# !bin/bash          
 
 2) Multi-line comment:
    -------------------
