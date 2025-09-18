@@ -199,4 +199,91 @@ command:
 3) press q to quit.
 
 
+
+wildcard (Globbing):
+-------------------
+	wildcards are the special characters in linux/unix shell that used to match the patterns when working with files/directories is called Globbing.
+
+
+1) * --> Matches zeros or more characters:
+     --------------------------------------
+
+--> Match including everything including a empty string.
+
+	ls *.txt     # It will display all files end with .txt 
+	ls file*     # It will display all the files like file1, file2, file3 ..
+	ls *         # It will display all the files/dir in current directory.
+
+
+2) ? --> Matches exactly one character:
+   ------------------------------------
+
+--> Matches any single character (except hidden files starting with . unless explicity specified)
+
+	ls ?.txt             # matches a.txt, b.txt but not abc.txt.
+	ls file?             # matches the file1, file2 but not file10.
+
+
+3) [] --> Matches a one character from set/range:
+   -------------------------------------------------
+
+--> Use [] for set or range.
+
+	ls file[123].txt     # matches file1.txt, file2.txt, file3.txt.
+	ls file[a-c].txt     # matches filea.txt, fileb.txt, filec.txt.
+	ls file[!0-9].txt    # macthes all the files except from file0,...file9.
+
+
+Note:
+-----
+	Globbing is handled by the shell before executing the command.
+	If no files match the pattern some shells return the literal string (ls *.xyz)other may return an error.
+
+
+Quoting in Shell:
+-----------------
+	It is used to controlling how the shell interprets special characters (*, ?, $, !, /, etc).
+
+1) Single Quote.
+2) Double Quote.
+3) Backslash.
+
+
+1) Single Quotes :
+   ---------------
+	Everything inside the single quote is literally and No variable expansion and no command substitution.
+
+script:
+-------
+	echo -n 'Enter the name'
+
+2) Double Quotes :
+   ---------------
+	preserves most character literally but allows variable expansion and command substitution.
+
+script:
+-------
+	echo -e "The value of a is: $a \n The value of b is: $b"
+	echo -n "Today date is:$(date)"
+
+
+3) Backslash:
+   ----------
+
+	Escapes the special meaning of the next character only.
+
+script:
+-------
+	echo "My name is \$name."
+	echo "It\'s very nice."
+
+Note:
+-----
+	If we want to combine both literal text & Variable expansion in a singlke command.
+
+script:
+-------
+	echo 'My name is:' "$name"
+
+
  
