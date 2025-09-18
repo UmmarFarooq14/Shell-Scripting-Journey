@@ -49,6 +49,32 @@ There are 4 ways to executable a Shell Script:
 3) . file-name.sh
 4) bash file-name.sh
 
+comments in shell scripting:
+----------------------------
+1) Sing-line  line comment.
+2) Multi-line comment.
+3) In-line comment.
+
+1) Single-line comment:
+   --------------------
+	For single-line comment we use '#'.
+	# !bin/bash          ----> This line won't execute.
+
+2) Multi-line comment:
+   -------------------
+   For Mukti line commment we use '/*-----*/.'
+   << comment
+   echo "enter the number:"
+   read num
+   echo "The number is: $num"
+   comment
+
+
+3) In-line comment:
+   ----------------
+	In line comment placed at the end of the command line to provide brief explanation.
+	echo "Hi! Hello"   # This command display the text.
+	
 
 Steps to run the shell script:
 ------------------------------
