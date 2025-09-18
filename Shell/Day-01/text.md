@@ -57,24 +57,25 @@ comments in shell scripting:
 
 1) Single-line comment:
    --------------------
-	For single-line comment we use '#'.
+--> For single-line comment we use '#'.
 	# !bin/bash          
 
 2) Multi-line comment:
    -------------------
 --> For Mukti line commment we use '/*-----*/.'
    
-   << comment
-   echo "enter the number:"
-   read num
-   echo "The number is: $num"
-   comment
+   	<< comment
+   	echo "enter the number:"
+   	read num
+   	echo "The number is: $num"
+   	comment
 
 
 4) In-line comment:
    ----------------
 --> In line comment placed at the end of the command line to provide brief explanation.
-	echo "Hi! Hello"   # This command display the text.
+
+		echo "Hi! Hello"   # This command display the text.
 	
 
 Steps to run the shell script:
