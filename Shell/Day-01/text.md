@@ -58,11 +58,11 @@ comments in shell scripting:
 1) Single-line comment:
    --------------------
 --> For single-line comment we use '#'.
-		# echo "Hi! Hello world."          
+		#echo "Hi! Hello world."          
 
 2) Multi-line comment:
    -------------------
---> For Mukti line commment we use '/*-----*/.'
+--> For Mukti line commment we use '<<comment-----comment.'
    
    	<< comment
    	echo "enter the number:"
