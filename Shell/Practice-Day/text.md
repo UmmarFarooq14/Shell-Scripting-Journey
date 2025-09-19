@@ -37,14 +37,12 @@ Create a directory called practice_day1 and sub-directory is backup & create a t
 Display the absolute path of your current working directory
 -----------------------------------------------------------
       pwd 
-
   --> cat /etc/passwd
   --> less /ect/passwd 
   --> head -n 5 |  /etc/passwd
   --> tail -n 5 | /etc/passwd
 
-
-  touch file3.log
+      touch file3.log
 
  Write a script that:Defines variables name and age
  --------------------------------------------------
