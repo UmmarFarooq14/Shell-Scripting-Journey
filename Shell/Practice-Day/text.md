@@ -12,12 +12,11 @@ Check which shell you are using and list all available shells on your system:
 
   --> cat /etc/shells
 
-# Create a directory called practice_day1 and sub-directory is backup & create a three files like file1.txt, file2.txt, file3.log.
+Create a directory called practice_day1 and sub-directory is backup & create a three files like file1.txt, file2.txt, file3.log
+-------------------------------------------------------------------------------------------------------------------------------
 
   mkdir -vp practice-day1/backup
-
   touch file{1..2}.txt file3.log
-
   ls -lrth 
 
 # Copy all .txt files to the backup directory.
