@@ -1,6 +1,5 @@
 Write a simple shell script (hello.sh) that prints:
 ---------------------------------------------------
-
   echo -n "Hello, world!"
 
 
