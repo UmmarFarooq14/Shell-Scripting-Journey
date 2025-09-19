@@ -5,11 +5,11 @@
 
 # Check which shell you are using and list all available shells on your system.
 
-  echo $SHELL
-  echo $0
-  ps -p $$
+  --> echo $SHELL
+  --> echo $0
+  --> ps -p $$
 
-  cat /etc/shells
+  --> cat /etc/shells
 
 # Create a directory called practice_day1 and sub-directory is backup & create a three files like file1.txt, file2.txt, file3.log.
 
