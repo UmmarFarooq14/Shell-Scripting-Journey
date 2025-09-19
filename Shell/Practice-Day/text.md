@@ -46,9 +46,9 @@ Display the absolute path of your current working directory
  Write a script that:Defines variables name and age
  --------------------------------------------------
 
-  name="ummar"
-  age=23
-  echo -n "My name is $name & I'm $age years old."
+      name="ummar"
+      age=23
+      echo -n "My name is $name & I'm $age years old."
 
  Print the current username and date using command substitution ($())
  --------------------------------------------------------------------
