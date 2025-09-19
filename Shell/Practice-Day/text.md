@@ -19,19 +19,23 @@ Create a directory called practice_day1 and sub-directory is backup & create a t
     touch file{1..2}.txt file3.log
     ls -lrth 
 
-# Copy all .txt files to the backup directory.
+ Copy all .txt files to the backup directory
+ --------------------------------------------
 
       cp  *.txt practice-day1/backup/
 
-# Rename file1.txt → myfile.txt.
+ Rename file1.txt → myfile.txt
+ -----------------------------
 
        mv file1.txt myfile.txt
 
-# Remove file3.log.
+ Remove file3.log
+ -----------------
 
   rm file3.log 
 
-# Display the absolute path of your current working directory.
+Display the absolute path of your current working directory
+-----------------------------------------------------------
   pwd 
 
   #cat /etc/passwd
@@ -42,13 +46,15 @@ Create a directory called practice_day1 and sub-directory is backup & create a t
 
   touch file3.log
 
-# Write a script that:Defines variables name and age.
+ Write a script that:Defines variables name and age
+ --------------------------------------------------
 
   name="ummar"
   age=23
   echo -n "My name is $name & I'm $age years old."
 
-# Print the current username and date using command substitution ($()).
+ Print the current username and date using command substitution ($())
+ --------------------------------------------------------------------
   uname 
   
   today=$(date)
