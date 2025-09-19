@@ -36,12 +36,12 @@ Create a directory called practice_day1 and sub-directory is backup & create a t
 
 Display the absolute path of your current working directory
 -----------------------------------------------------------
-  pwd 
+      pwd 
 
-  -->cat /etc/passwd
-  -->less /ect/passwd 
-  -->head -n 5 |  /etc/passwd
-  -->tail -n 5 | /etc/passwd
+  --> cat /etc/passwd
+  --> less /ect/passwd 
+  --> head -n 5 |  /etc/passwd
+  --> tail -n 5 | /etc/passwd
 
 
   touch file3.log
