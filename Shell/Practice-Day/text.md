@@ -57,104 +57,117 @@ Display the absolute path of your current working directory
       echo "Today is :$today"
       echo 'Today is :$(today)'
 
-# Write a script that asks the user for their name (using read) and greets them.
+ Write a script that asks the user for their name (using read) and greets them
+ ------------------------------------------------------------------------------
 
-  echo -n "enter the name:"
-  read name 
-  echo "Hello! $name"
+      echo -n "enter the name:"
+      read name 
+      echo "Hello! $name"
 
-# Write a script that asks the user for a number and checks if it is greater than 10 using if.
+Write a script that asks the user for a number and checks if it is greater than 10 using if
+-------------------------------------------------------------------------------------------
 
-  echo -n "enter the number:"
-  read num 
-  if [ $num -gt 10 ]
-  then 
-     echo "$num is greather-than 10."
-  elif [ $num -ge 10 ]
-  then
-      echo "$num is equal to 10."
-  else
-      echo "$num is less-than 10."
-  fi
+      echo -n "enter the number:"
+      read num 
+      if [ $num -gt 10 ]
+      then 
+         echo "$num is greather-than 10."
+      elif [ $num -ge 10 ]
+      then
+          echo "$num is equal to 10."
+      else
+          echo "$num is less-than 10."
+      fi
 
-# Run a valid command (like ls) and check its exit status ($?). Then run an invalid command and check again.
-  command="pwd"
-  $command
-  status_code=$?
-  if [ $status_code -eq 0 ]
-  then 
-      echo "$command is correct & status_code is: $status_code."
-      
-  else
-      echo "$command is mistake & status_code is: $status_code."
-  fi
+ Run a valid command (like ls) and check its exit status ($?). Then run an invalid command and check again
+ ---------------------------------------------------------------------------------------------------------
+      command="pwd"
+      $command
+      status_code=$?
+      if [ $status_code -eq 0 ]
+      then 
+          echo "$command is correct & status_code is: $status_code."
+          
+      else
+          echo "$command is mistake & status_code is: $status_code."
+      fi
 
 
-  command="Ls"
-  $command
-  status_code=$?
-  if [ $status_code -eq 0 ]
-  then
-      echo "$command is correct & status_code is: $status_code."
-  else
-     echo "$command is mistake & status_code is: $status_code."
-  fi
+      command="Ls"
+      $command
+      status_code=$?
+      if [ $status_code -eq 0 ]
+      then
+          echo "$command is correct & status_code is: $status_code."
+      else
+         echo "$command is mistake & status_code is: $status_code."
+      fi
     
-# Use which and type to check the location/type of:
+ Use which and type to check the location/type of
+ -------------------------------------------------
 
-  type ls 
-  location=$(which ls) 
-  echo "Location is:$location"
-  
-  type bash 
-  location=$(which bash)
-  echo "Location is:$location"
-  
-  type echo
-  location=$(which echo)
-  echo "Location is:$location"
+      type ls 
+      location=$(which ls) 
+      echo "Location is:$location"
+      
+      type bash 
+      location=$(which bash)
+      echo "Location is:$location"
+      
+      type echo
+      location=$(which echo)
+      echo "Location is:$location"
 
-# Open the man page of cp and find how to copy a directory recursively.
+ Open the man page of cp and find how to copy a directory recursively
+ --------------------------------------------------------------------
 
-  man cp 
-  
-  cp -r dir1/ dir2/
+      man cp 
+      cp -r dir1/ dir2/
 
-# List all files ending with .txt.
+ List all files ending with .txt
+ -------------------------------
 
-  ls *.txt
+      ls *.txt
 
-# List all files starting with f and ending with any character.
+ List all files starting with f and ending with any character
+ ------------------------------------------------------------
 
-  ls f?.txt
+      ls f?.txt
 
-# List only file1.txt, file2.txt, file3.txt using [].
-  ls file[123].txt
+ List only file1.txt, file2.txt, file3.txt using []
+ --------------------------------------------------
+      ls file[123].txt
 
-# List files that don’t end with .log.
+ List files that don’t end with .log
+ -----------------------------------        
 
-  ls file[!0-9].txt
+      ls file[!0-9].txt
 
-# Print Hello $USER literally.
+ Print Hello $USER literally
+ ---------------------------
 
-  echo 'Hello! $user'
+      echo 'Hello! $user'
 
-# Print your username using $USER.
-  name="shaik"
-  echo "Hello $name."
+ Print your username using $USER
+ --------------------------------
+      name="shaik"
+      echo "Hello $name."
 
-# Print: It’s 100% done! using escape sequences.
+Print: It’s 100% done! using escape sequences
+----------------------------------------------
 
-  echo  "It\'s 100% done!"
+      echo  "It\'s 100% done!"
 
-# Print the string *.sh literally without expansion.
+ Print the string *.sh literally without expansion
+ -------------------------------------------------
 
-  echo "*.sh"
+      echo "*.sh"
 
-# Write a script that:
-  mkdir -v reports
-  
-  echo -n "enter the name:"
-  read name 
-  mkdir -vp reports/reports.txt
-  ls -lrth reports/ $name date pwd 
+ Write a script that
+ --------------------
+      mkdir -v reports
+      
+      echo -n "enter the name:"
+      read name 
+      mkdir -vp reports/reports.txt
+      ls -lrth reports/ $name date pwd 
