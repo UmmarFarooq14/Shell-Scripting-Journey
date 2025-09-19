@@ -5,9 +5,9 @@
 
 # Check which shell you are using and list all available shells on your system.
 
-  --> echo $SHELL
-  --> echo $0
-  --> ps -p $$
+  1) echo $SHELL
+  2) echo $0
+  3) ps -p $$
 
   --> cat /etc/shells
 
