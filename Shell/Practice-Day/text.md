@@ -181,3 +181,43 @@ Write a script that: Asks the user for two numbers.Prints their sum, difference,
         echo "The product of $a and $b is: $((a*b))."
         
 
+Ask the user for a filename. If the file exists, print "File exists", otherwise print "File not found"
+------------------------------------------------------------------------------------------------------
+        echo "Enter the name of the file:"
+        read file
+        if [ -e "$file" ]
+        then 
+            echo "File exists."
+        else
+            echo "File not found."
+        fi
+
+Write a script that asks the user for a filename, then:If it exists, display the first 5 lines.If not, print "File does not exist"
+----------------------------------------------------------------------------------------------------------------------------------
+        echo -n "Enter the filename:"
+        read filename
+        if [ -f "$filename" ]
+        then
+            echo "File Exist! Displaying a first 5 lines."
+            head -n 5 "$filename"
+        else
+            echo "File does not exist."
+        fi
+
+shell script that asks the user for a filename and then displays the number of lines in that file
+--------------------------------------------------------------------------------------------------
+
+        echo -n "Enter the filename:"
+        read filename
+        if [ -f "$filename" ]
+        then
+            lines=$(wc -l < filename)
+            echo "The file is: $file & has $lines lines."
+        else
+            echo "File does not Exist."
+        fi
+
+
+
+
+        
