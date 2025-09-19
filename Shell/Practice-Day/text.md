@@ -177,5 +177,7 @@ Write a script that: Asks the user for two numbers.Prints their sum, difference,
         echo -n "enter the  two numbers:"
         read a and b
         echo "The sum of $a and &b is: $((a+b))."
-        echo " The difference of $a and $b is: $((a-b))."
+        echo "The difference of $a and $b is: $((a-b))."
+        echo "The product of $a and $b is: $((a*b))."
+        
 
