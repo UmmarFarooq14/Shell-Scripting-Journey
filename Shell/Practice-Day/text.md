@@ -52,12 +52,10 @@ Display the absolute path of your current working directory
 
  Print the current username and date using command substitution ($())
  --------------------------------------------------------------------
-  uname 
-  
-  today=$(date)
-  echo "Today is :$today"
-  
-  echo 'Today is :$(today)'
+      uname 
+      today=$(date)
+      echo "Today is :$today"
+      echo 'Today is :$(today)'
 
 # Write a script that asks the user for their name (using read) and greets them.
 
