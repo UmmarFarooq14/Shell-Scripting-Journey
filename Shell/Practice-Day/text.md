@@ -171,3 +171,11 @@ Print: It’s 100% done! using escape sequences
       read name 
       mkdir -vp reports/reports.txt
       ls -lrth reports/ $name date pwd 
+
+Write a script that: Asks the user for two numbers.Prints their sum, difference, and product
+--------------------------------------------------------------------------------------------
+        echo -n "enter the  two numbers:"
+        read a and b
+        echo "The sum of $a and &b is: $((a+b))."
+        echo " The difference of $a and $b is: $((a-b))."
+
