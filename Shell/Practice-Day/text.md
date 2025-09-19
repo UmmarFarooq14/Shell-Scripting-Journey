@@ -6,11 +6,11 @@ Write a simple shell script (hello.sh) that prints:
 Check which shell you are using and list all available shells on your system:
 -----------------------------------------------------------------------------
 
-  1) echo $SHELL
-  2) echo $0
-  3) ps -p $$
+      1) echo $SHELL
+      2) echo $0
+      3) ps -p $$
 
-  --> cat /etc/shells
+      --> cat /etc/shells
 
 Create a directory called practice_day1 and sub-directory is backup & create a three files like file1.txt, file2.txt, file3.log
 -------------------------------------------------------------------------------------------------------------------------------
