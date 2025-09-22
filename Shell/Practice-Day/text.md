@@ -231,6 +231,21 @@ script: To check the given number is even or odd.
     fi
 
 
+script: Write a script to check if a number entered by the user is positive, negative, or zero.
+------
+
+    echo -n "Enter the number:"
+    read num
+    
+    if [ $num -gt 0 ]
+    then
+        echo -e "$num is a positive number."
+    elif [ $num -eq 0 ]
+    then
+        echo -e "$num is equal to zero."
+    else
+        echo -e "$num is a negative number."
+    fi
 
 
 
