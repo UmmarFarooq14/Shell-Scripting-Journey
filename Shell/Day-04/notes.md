@@ -7,4 +7,15 @@ Introduction:
   1) if, else, elif
   2) for loops
 
+syntax  for if -ellse:
+----------------------
+
+	if [           ]
+	then 
+	    echo "       "
+	else
+	    echo "       "
+	fi
+
+
 
