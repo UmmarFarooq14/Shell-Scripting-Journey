@@ -31,3 +31,18 @@ syntax for elif:
 	    echo "        " 
 	fi 
 
+script-1: Check the number is +ve or -ve.
+---------
+
+	echo -n "Enter the number:"
+	read num
+	
+	if [ $num -gt 0 ]
+	then
+	    echo " $num is +ve."
+	else
+	    echo " $num is -ve."
+	fi
+
+
+
