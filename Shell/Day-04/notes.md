@@ -141,6 +141,17 @@ script-6:  To check whether it is a directory or not.
 	fi
 
 
+script-7: To check whether the file has a read permission or not.
+---------
+
+	file="sum.sh"
+	if [ -r "$file" ]
+	then 
+	    echo "The $file file has a read permission."
+	else
+	    echo "The $ file doesn't have a read permission."
+	fi
+
 
 
 
