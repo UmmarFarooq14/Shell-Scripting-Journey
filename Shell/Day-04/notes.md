@@ -153,6 +153,16 @@ script-7: To check whether the file has a read permission or not.
 	fi
 
 
+script -8: To check whether the file has a execute permission or  not.
+----------
+
+	file="sum.sh"
+	if [ -x "$file" ]
+	then
+	    echo "The $file file has a executable permission."
+	else
+	    echo "The $file file doesn't have a executable permission."
+	fi
 
 
 
