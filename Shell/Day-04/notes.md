@@ -176,3 +176,7 @@ script-9: To chekc whether the file has a write permission or not.
 	    echo "The $file file doesn't have a write permission."
 	fi
 
+Loops in Shell:
+--------------
+	1) For Loop.
+	2) While Loop.
