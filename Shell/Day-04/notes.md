@@ -16,6 +16,18 @@ syntax  for if -ellse:
 	else
 	    echo "       "
 	fi
+ 
 
+syntax for elif:
+----------------
 
+	if [              ]
+	then 
+	    echo "        "
+	elif [            ]
+	then 
+	    echo "        "
+	else
+	    echo "        " 
+	fi 
 
