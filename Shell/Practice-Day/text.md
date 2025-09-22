@@ -248,6 +248,18 @@ script: Write a script to check if a number entered by the user is positive, neg
     fi
 
 
+script: Create a script to print all even numbers between 1 and 50.
+-------
+
+    echo -n "Displaying Even numbers between 1 to 50."
+    
+    for (( i=0; i<=50; i++ ))
+    do 
+      if [ $ ((i % 2)) -eq 0 ]
+      then
+         echo "The numbers are: $i"
+      fi
+    done
 
 
         
