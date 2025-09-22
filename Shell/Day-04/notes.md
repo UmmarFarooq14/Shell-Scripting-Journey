@@ -74,5 +74,19 @@ Integers comparison operator:
 	-ge                        # Greater-than or equal to operator.
 
 
+script-3: compaarison to two numbers.
+---------
+
+	a=10
+	b=20
+	if [ $a -gt $b ]
+	then
+	    echo "$a is greater than $b."
+	else
+	    echo "$b is greater then $a."
+	fi
+
+
+
 
 
