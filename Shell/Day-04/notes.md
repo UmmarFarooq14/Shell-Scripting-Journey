@@ -61,6 +61,18 @@ script-2: Grading System.
 	fi
 
 
+Operators in Shell:
+-------------------
+Integers comparison operator:
+-----------------------------
+
+	-eq                        # Equal to operator.
+	-ne                        # Not-equal to operator.
+	-lt                        # Less-than operator.
+	-gt                        # Greater-than operator.
+	-le                        # Less-than or equal to operator.
+	-ge                        # Greater-than or equal to operator.
+
 
 
 
