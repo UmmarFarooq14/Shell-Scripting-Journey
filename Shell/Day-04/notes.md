@@ -129,6 +129,16 @@ script-5: To check whether it is a file or not.
 	fi
 
 
+script-6:  To check whether it is a directory or not.
+---------
+
+	file="data"
+	if [ -d "$file" ]
+	then
+	    echo "It is a directory."
+	else:
+	    echo "It is not a directory."
+	fi
 
 
 
