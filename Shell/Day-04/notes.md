@@ -234,3 +234,18 @@ script-12: To print numbers from 1-5.
 	  i=$((i+1))
 	done
 
+script-13: While Loopusing a break statement.
+----------
+
+	i=0
+	while [ $i -le 5 ]
+	do
+	    echo "The number is: $i."
+	    if [ "$i" -eq 3 ]
+	    then 
+	        echo "Breaking the loop."
+	        break
+	    fi
+	    i=$((i+1))
+	done
+
