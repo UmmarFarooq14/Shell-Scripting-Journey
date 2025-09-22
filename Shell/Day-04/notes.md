@@ -210,4 +210,17 @@ script-11: Loop over files.
 	  echo -e "The files are: $files.
 	done
 
+2) While Loop:
+--------------
+
+	Executes commands until unless condition gets true.
+
+syntax for While:
+-----------------
+
+	while [  ] 
+	do
+	  echo "   "
+	  condition;
+	done
 
