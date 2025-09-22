@@ -218,6 +218,21 @@ shell script that asks the user for a filename and then displays the number of l
         fi
 
 
+script: To check the given number is even or odd.
+------
+
+    echo -n "Enter the number:"
+    read num
+    if [ $((num % 2)) -eq 0 ]
+    then 
+        echo " $num is a even number."
+    else
+        echo " $num is a odd  number."
+    fi
+
+
+
+
 
 
         
