@@ -106,6 +106,17 @@ script-4: To check whether the string is empty or not.
 	    echo "$String is empty."
 	fi
 
+Files Test Operators:
+--------------------
+
+	-f                       # To check the file.
+	-d                       # To check the directory.
+	-e                       # To check the file if truly exists.
+	-r                       # To chelc the file has readable permission or not.
+	-x                       # To check the file has executable permission or not.
+	-w                       # To check the file has write permission or not.
+
+
 
 
 
