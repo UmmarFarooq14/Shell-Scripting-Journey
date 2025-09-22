@@ -202,4 +202,12 @@ script-10: To display the numbers from 1-10.
 	  echo -e "The number are: $i."
 	done
 
+script-11: Loop over files.
+----------
+
+	for files in "*.sh"
+	do 
+	  echo -e "The files are: $files.
+	done
+
 
