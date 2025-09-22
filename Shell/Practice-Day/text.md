@@ -275,4 +275,20 @@ script: Create a script to calculate the factorial of a given number using a whi
        
     done
 
-        
+script: Create a script to calculate the factorial of a given number using a while loop.
+-------
+
+    echo -n "Enter the number:"
+    read num
+    
+    factorial=1
+    i=$num
+    
+    while [ $i -gt 0 ]
+    do 
+      factorial=$((factorial*i))
+      i=$((i-1))
+    done
+    
+    echo -e "The Factorial of $num is:$factorial."
+      
