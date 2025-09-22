@@ -86,6 +86,15 @@ script-3: comparison of two numbers.
 	    echo "$b is greater then $a."
 	fi
 
+ String comparison operator:
+--------------------------
+
+	 =                          # Equal.
+	!=                          # Not-equal.
+	-z                          # String is empty.
+	-n                          # string is not empty.
+
+
 
 
 
