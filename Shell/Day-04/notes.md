@@ -44,5 +44,23 @@ script-1: Check the number is +ve or -ve.
 	    echo " $num is -ve."
 	fi
 
+script-2: Grading System.
+---------
+
+	echo -n "Enter the marks:"
+	read marks
+	
+	if [ $marks -gt 90 ]
+	then
+	    echo "For $marks marks Grade is: A."
+	elif [[ $marks -gt 75 && $marks -lt 90 ]]
+	then
+	    echo "For $marks marks Grade is: B."
+	else
+	    echo "For $marks marks Grade is: C."
+	fi
+
+
+
 
 
