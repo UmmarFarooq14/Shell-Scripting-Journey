@@ -291,4 +291,17 @@ script: Create a script to calculate the factorial of a given number using a whi
     done
     
     echo -e "The Factorial of $num is:$factorial."
+
+script: Create a nested loop to display a multiplication table for numbers 1 to 5.
+-------
+
+    for (( i=1; i<=10; i++ ))
+    do
+      for(( j=1; j<=5; j++))
+      do 
+        echo "$i*$j=$((i*j))"
+      done
+     echo "Exit!"
+    done
+
       
