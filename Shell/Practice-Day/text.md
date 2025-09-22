@@ -262,4 +262,17 @@ script: Create a script to print all even numbers between 1 and 50.
     done
 
 
+script: Create a script to calculate the factorial of a given number using a while loop.
+------
+
+    echo -n "Factorial of a number is:"
+    read num
+    factorial=1
+    for (( i=1 ; i<=num; i++ ))
+    do
+       factorial= $((factorial*i))
+       echo "The factorial of a number is: $factorial"
+       
+    done
+
         
