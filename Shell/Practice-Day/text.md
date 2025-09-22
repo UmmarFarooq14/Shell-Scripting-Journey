@@ -307,12 +307,12 @@ script: Create a nested loop to display a multiplication table for numbers 1 to 
 script: Write a script to sum all numbers from 1 to 100.
 -------
 
-sum=0
-for (( i=1; i<=100; i++ ))
-do
-  sum= $((sum+i))
-done
-echo "The sum of numbers is: $sum"
+    sum=0
+    for (( i=1; i<=100; i++ ))
+    do
+      sum= $((sum+i))
+    done
+    echo "The sum of numbers is: $sum"
 
 
 
