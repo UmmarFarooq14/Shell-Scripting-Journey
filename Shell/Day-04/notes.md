@@ -259,3 +259,25 @@ script-14: To check the multiple conditions.
 	then
 	    echo "Eligible age group."
 	fi.
+
+script-15: Multiple-driven.
+---------
+
+	echo -e "1.show the current date."
+	echo -e "2.show the current directory."
+	echo -e "3.show the logged-in users."
+	echo -n "Enter the choice:"
+	read choice
+	
+	if [ $choice -eq 1 ]
+	then
+	    date
+	elif [ $choice -eq 2 ]
+	then 
+	    pwd
+	elif [ $choice -eq 3 ]
+	then 
+	    who
+	else
+	    echo "Invalid choice."
+	fi
