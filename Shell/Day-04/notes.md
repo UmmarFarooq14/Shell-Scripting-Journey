@@ -184,7 +184,7 @@ Loops in Shell:
 
  1) For Loop:
     ---------
-	Used to iterate over list of items until the condition gets false.
+		Used to iterate over list of items until the condition gets false.
 
 
 syntax for for loop:
