@@ -249,3 +249,13 @@ script-13: While Loopusing a break statement.
 	    i=$((i+1))
 	done
 
+script-14: To check the multiple conditions.
+----------
+
+	echo -n "Enter the age:"
+	read age
+	
+	if [ $age -gt 18 ] && [ $age -lt 30 ]
+	then
+	    echo "Eligible age group."
+	fi.
