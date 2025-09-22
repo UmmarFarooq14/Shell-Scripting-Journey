@@ -180,3 +180,18 @@ Loops in Shell:
 --------------
 	1) For Loop.
 	2) While Loop.
+
+
+ 1) For Loop:
+------------
+	Used to iterate over list of items until the condition gets false.
+
+
+syntax for for loop:
+--------------------
+
+	for var in lists
+	do 
+	  echo "     "
+	done
+
