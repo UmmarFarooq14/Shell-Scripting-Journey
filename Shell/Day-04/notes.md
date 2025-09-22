@@ -195,3 +195,11 @@ syntax for for loop:
 	  echo "     "
 	done
 
+script-10: To display the numbers from 1-10.
+----------
+	for i in {1..10}
+	do 
+	  echo -e "The number are: $i."
+	done
+
+
