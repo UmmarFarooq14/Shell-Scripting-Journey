@@ -224,3 +224,13 @@ syntax for While:
 	  condition;
 	done
 
+script-12: To print numbers from 1-5.
+----------
+
+	i=5
+	while [ $i -le 5 ]
+	do 
+	  echo -e "The number is: $i."
+	  i=$((i+1))
+	done
+
