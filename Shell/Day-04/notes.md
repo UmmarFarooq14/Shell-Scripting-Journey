@@ -98,13 +98,13 @@ script-3: comparison of two numbers.
 script-4: To check whether the string is empty or not.
 ---------
 
-string="Hello"
-if [ -n "$string" ]
-then 
-    echo "$String is not empty."
-else
-    echo "$String is empty."
-fi
+	string="Hello"
+	if [ -n "$string" ]
+	then 
+	    echo "$String is not empty."
+	else
+	    echo "$String is empty."
+	fi
 
 
 
