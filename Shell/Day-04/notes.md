@@ -213,7 +213,7 @@ script-11: Loop over files.
 2) While Loop:
    -----------
 
-	Executes commands until unless condition gets true.
+		Executes commands until unless condition gets true.
 
 syntax for While:
 -----------------
