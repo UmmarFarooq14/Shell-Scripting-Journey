@@ -115,6 +115,18 @@ Files Test Operators:
 	-r                       # To chelc the file has readable permission or not.
 	-x                       # To check the file has executable permission or not.
 	-w                       # To check the file has write permission or not.
+ 
+
+script-5: To check whether it is a file or not.
+--------
+
+	file="sum.sh"
+	if [ -f "$file" ]
+	then
+	    echo "$file is a file."
+	else
+	    echo "$file is not a file."
+	fi
 
 
 
