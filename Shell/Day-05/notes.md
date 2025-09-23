@@ -74,3 +74,21 @@ syntax:
 	    commands
 	fi
 
+
+script-03: Checking file types.
+----------
+
+	filename="sum2.sh"
+	if [ -f "$filename" ]
+	then 
+	    echo -e "$filename  is a file."
+	elif [ -d "$filename"]
+	then
+	    echo -e "$filename is a directory."
+	elif [-	L "$filename"]
+	then 
+	    echo -e "$filename has a symbolic-link."
+	else
+	   echo -e "File not valid! Check-once name of the file."
+	fi
+	
