@@ -151,4 +151,30 @@ script-05: Menu-driven program.
 	esac
 
 
+script-06: Calculator using case statement.
+---------
+
+	echo -e """**** CALCULATOR ****"""
+	echo -e "1.Addition of numbers."
+	echo -e "2.Subtraction of numbers."
+	echo -e "3.Multiplication of numbers."
+	echo -e "4.Division of numbers."
+	echo -e "Select the choice:"
+	read choice
+	echo -e "Enter the numbers:"
+	read a b
+	
+	case $choice in
+	           1)
+	            echo -e "The Sum of numbers is: $((a+b))" ;;
+	           2)
+	            echo -e "The Diff of number is: $((a-b))" ;;
+	           3)
+	            echo -e "The Mul of number is: $((a*b))" ;;
+	           4)
+	            echo -e "The Division of number si: $((a/b))" ;;
+	           5)
+	            echo -e "Invalid choice!." ;;
+	esac
+
 	
