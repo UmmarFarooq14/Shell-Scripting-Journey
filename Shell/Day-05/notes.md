@@ -177,7 +177,7 @@ script-06: Calculator using case statement.
 	            echo -e "Invalid choice!." ;;
 	esac
 
-script-08: Write a script that accepts a number from the user and classifies it into: Small (1–10) Medium (11–50) Large (>50)
+script-07: Write a script that accepts a number from the user and classifies it into: Small (1–10) Medium (11–50) Large (>50)
 ----------
 
 	echo -n "Enter the number:"
