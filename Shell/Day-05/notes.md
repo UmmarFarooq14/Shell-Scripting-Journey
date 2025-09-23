@@ -129,6 +129,26 @@ script-04: Day of the week.
 			  echo  -e "Mid of the week!." ;;
 	esac
 	   
-	   
-	  
+
+script-05: Menu-driven program.
+----------
+
+	echo -n """ ***Menu*** """
+	echo -e "1.Show current date."
+	echo -e "2.show current working directory."
+	echo -e "3.show logged-in user."
+	echo -e "4.Operating system-version."
+	echo -e "Select the choice:"
+	read choice
+	
+	case $choice in
+	        1) date ;;
+	        2) pwd  ;;
+	        3) who  ;;
+	        4) cat /etc/os-release ;;
+	        5) echo "Existing!...." ;;
+	        *) echo "-----Invalid Choice----" ;;
+	esac
+
+
 	
