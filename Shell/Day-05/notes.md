@@ -192,3 +192,13 @@ script-07: Write a script that accepts a number from the user and classifies it 
 	    echo -e "$num is a large number."
 	fi
 
+script-08: To automate the scripts backups.
+----------
+
+	source="*.sh"
+	backup_dir="/home/shaik.farooq/data"
+	timestamp=$(date +"%Y%m%d_%H%M%S")
+	backup_name="backup_$timestamp.tar.gz"
+	mkdir -p "$backup_dir"
+	tar -czvf "$backup_dir/$backup_name" $source
+	echo "Backup of $source completed: $backup_dir/$backup_name."
