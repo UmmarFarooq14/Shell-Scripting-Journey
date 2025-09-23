@@ -177,4 +177,18 @@ script-06: Calculator using case statement.
 	            echo -e "Invalid choice!." ;;
 	esac
 
-	
+script-08: Write a script that accepts a number from the user and classifies it into: Small (1–10) Medium (11–50) Large (>50)
+----------
+
+	echo -n "Enter the number:"
+	read num
+	if [ $num -gt 1 ] && [ $num -le 10 ]
+	then
+	    echo -e "$num is a small number."
+	elif [ $num -gt 11 ] && [ $num -le 50 ]
+	then
+	    echo -e "$num is a medium number."
+	else
+	    echo -e "$num is a large number."
+	fi
+
