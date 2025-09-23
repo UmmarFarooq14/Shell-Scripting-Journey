@@ -110,4 +110,25 @@ syntax:
 	      *)
 	          commands  ;;
 	easc
+
+
+script-04: Day of the week.
+----------
+	day=$(date +%a)
+	
+	case $day in
+	       Mon) 
+		      echo -e "Starting of the week." ;;
+		   Tue)
+		      echo -e "Second day of the week!"
+	       Fri) 
+		      echo -e "Weekend is next day!."  ;;
+		Sat|Sun)
+		     echo -e "Weekend!." ;;
+		    *)
+			  echo  -e "Mid of the week!." ;;
+	esac
+	   
+	   
+	  
 	
