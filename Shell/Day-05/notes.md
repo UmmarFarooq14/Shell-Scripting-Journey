@@ -54,5 +54,5 @@ script-02: Check if file exists and is readable.
 	    echo -e "File does not exist!."
 	fi
 
-2) Else-if-ladder:
+2) Else-if-Ladder:
    ---------------
