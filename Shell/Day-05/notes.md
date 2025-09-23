@@ -91,4 +91,9 @@ script-03: Checking file types.
 	else
 	   echo -e "File not valid! Check-once name of the file."
 	fi
+
+3) Case Statement:
+   ---------------
+		The case statement is used when we need to match a value against multiple patterns. It’s more readable than long elif ladders.
+
 	
