@@ -56,5 +56,5 @@ script-02: Check if file exists and is readable.
 
 2) Else-if-Ladder:
    ---------------
-	when we have multiple conditions, use elif instead of nested if's.
+		when we have multiple conditions, use elif instead of nested if's.
 
