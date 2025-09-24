@@ -26,3 +26,10 @@ script-2: print a numbers with step-size
 	  echo -e "the numbers are:$i"
 	done
 
+script-3: Loop over words.
+---------
+
+	for fruits in {'banana', 'apple', 'kiwi', 'Orange'}
+	do 
+	  echo -e "The Fruits are: $fruits"
+	done
