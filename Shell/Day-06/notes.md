@@ -17,3 +17,12 @@ syntax:
 	do
 	  commands
 	done
+
+script-2: print a numbers with step-size
+---------
+
+	for i in {1..50..2}
+	do
+	  echo -e "the numbers are:$i"
+	done
+
