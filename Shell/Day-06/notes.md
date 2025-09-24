@@ -13,3 +13,7 @@ In Shell Scripting, common loops are:
    ---------
 syntax:
 -------
+	for variables in list
+	do
+	  commands
+	done
