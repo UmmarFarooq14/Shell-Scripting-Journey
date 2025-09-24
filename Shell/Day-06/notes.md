@@ -7,3 +7,9 @@ In Shell Scripting, common loops are:
 	1) For loop
 	2) while loop
 	3) until loop
+
+
+1) For loop:
+   ---------
+syntax:
+-------
