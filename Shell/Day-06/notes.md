@@ -55,8 +55,8 @@ script-5: Monitoring cpu usage
 
 	while true
 	do
-	  cpu=$(top -bn1 | grep -i"CPU(s)")
-	  echo -e "CPU usage is: $cpu"
+	  cpu=$(top -bn1 | grep -i"CPU(s)" | awk '{print 100-$8}')
+	  echo -e "CPU usage is: ${cpu}%"
 	  sleep 2
 	done
 	
