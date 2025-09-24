@@ -50,3 +50,12 @@ script-5: loop over logged-in users.
 	  echo -e "Logged-in users are: $users"
 	done
 
+script-7: Monitoring cpu usage
+---------
+
+	while true
+	do
+	  cpu=$(top -bn1 | grep -i"CPU(s)")
+	  echo -e "CPU usage is: $cpu"
+	  sleep 2
+	done
