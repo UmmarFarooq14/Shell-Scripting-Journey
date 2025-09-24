@@ -63,9 +63,9 @@ script-5: Monitoring cpu usage
 script-6: disk uage of a file system.
 ---------
 
-while true
-do 
-  disk_usage=$(df -h . | awk 'NR==2 {Print $3, $4, $5}')
-  echo "disk_usage is: $disk_usage"
-  sleep 2
-done
+	while true
+	do 
+	  disk_usage=$(df -h . | awk 'NR==2 {Print $3, $4, $5}')
+	  echo "disk_usage is: $disk_usage"
+	  sleep 2
+	done
