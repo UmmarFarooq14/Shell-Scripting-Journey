@@ -42,3 +42,11 @@ script-4: Loop through files.
 	  echo -e "script files: $files"
 	done
 
+script-5: loop over logged-in users.
+--------
+
+	for users in $(who | awk '{ print $1 }')
+	do
+	  echo -e "Logged-in users are: $users"
+	done
+
