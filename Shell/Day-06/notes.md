@@ -33,3 +33,12 @@ script-3: Loop over words.
 	do 
 	  echo -e "The Fruits are: $fruits"
 	done
+
+script-4: Loop through files.
+---------
+
+	for files in *.sh
+	do
+	  echo -e "script files: $files"
+	done
+
