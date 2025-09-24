@@ -18,7 +18,7 @@ syntax:
 	  commands
 	done
 
-script-2: print a numbers with step-size
+script-1: print a numbers with step-size
 ---------
 
 	for i in {1..50..2}
@@ -26,7 +26,7 @@ script-2: print a numbers with step-size
 	  echo -e "the numbers are:$i"
 	done
 
-script-3: Loop over words.
+script-2: Loop over words.
 ---------
 
 	for fruits in 'banana', 'apple', 'kiwi', 'Orange'
@@ -34,7 +34,7 @@ script-3: Loop over words.
 	  echo -e "The Fruits are: $fruits"
 	done
 
-script-4: Loop through files.
+script-3: Loop through files.
 ---------
 
 	for files in *.sh
@@ -42,7 +42,7 @@ script-4: Loop through files.
 	  echo -e "script files: $files"
 	done
 
-script-5: loop over logged-in users.
+script-4: loop over logged-in users.
 --------
 
 	for users in $(who | awk '{ print $1 }')
@@ -50,7 +50,7 @@ script-5: loop over logged-in users.
 	  echo -e "Logged-in users are: $users"
 	done
 
-script-7: Monitoring cpu usage
+script-5: Monitoring cpu usage
 ---------
 
 	while true
@@ -60,7 +60,7 @@ script-7: Monitoring cpu usage
 	  sleep 2
 	done
 	
-script-8: disk uage of a file system.
+script-6: disk uage of a file system.
 ---------
 
 while true
