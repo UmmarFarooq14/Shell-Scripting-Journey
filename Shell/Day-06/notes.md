@@ -59,3 +59,13 @@ script-7: Monitoring cpu usage
 	  echo -e "CPU usage is: $cpu"
 	  sleep 2
 	done
+	
+script-8: disk uage of a file system.
+---------
+
+while true
+do 
+  disk_usage=$(df -h . | awk 'NR==2 {Print $3, $4, $5}')
+  echo "disk_usage is: $disk_usage"
+  sleep 2
+done
