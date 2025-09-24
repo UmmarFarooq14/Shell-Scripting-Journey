@@ -5,7 +5,7 @@ SCRIPT FOR CPU UTILIZATION ALERT:
      cpu=$(top -bn1 | grep "CPU(s)" | awk '{ print 100 - $8 }' | cut -d. -f1)
      if ["$cpu" -gt "$Threshold"]
      then 
-         echo "CPU Alert! usage is: ${cpu}%."
+         echo "CPU Alert! usage is: ${cpu}%." | mail -s "High alert!" shaikummarfarooq138@gmail.com
      else
          echo "CPU Utilization is Normal: ${cpu}%."
      fi
