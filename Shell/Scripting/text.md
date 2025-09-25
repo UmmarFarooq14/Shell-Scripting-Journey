@@ -32,4 +32,17 @@ SCRIPT FOR DISK UTILIZATION:
           fi
 
 
+Log-Monitoring Script:
+----------------------
+
+
+      # !/bin/bash
+      log_file="/var/log/syslog"
+      if [ ! -f "$log_file" ]
+      then
+          echo "Error! $log_file doesn't exist and cannot be accessed."
+          exit 1
+      fi
+      error_count=$( grep -i "error" "$log_file" | wc -l )
+      echo -e "Warning! $error_count found in $log_file."
 
