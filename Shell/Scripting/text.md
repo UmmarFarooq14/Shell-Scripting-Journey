@@ -14,15 +14,22 @@ SCRIPT FOR CPU UTILIZATION ALERT:
 SCRIPT FOR DISK UTILIZATION:
 ----------------------------
 
-     #!/bin/bash
-     Thershold=80;
-     disk_usage=$(df/ | awk 'NR==2 { print $5 }' | sed 's/%//')
-     if["$disk_usage" -gt "$Thershold"];
-     then
-       echo "Disk Alert! Usage is: ${disk_usage}%."
-     else
-       echo "Disk uage is normal: ${disk_usage}%."
-     fi
+           #!/bin/bash
+           Thershold=80
+           cnt=1
+           while read -r filesystem size use avail usep mountpoint
+           do 
+             usage_percent=$(echo "$usep" | tr -d '%')
+             if [ "$usage_percent" -gt "$Thershold" ]
+             then
+                 echo "Disk_Usage Alert! & Usage is: $filesystem  $usep  $mountpoint"
+                 cnt=1
+            fi
+          done < <(df -h --output=source,sixe,use,avail,pcent,target | awk 'NR>1')
+          if [ "$cnt" -eq 0 ] 
+          then
+              echo -e "Disk_usage is normal :(<= {Thershold}%)"
+          fi
 
 
 
