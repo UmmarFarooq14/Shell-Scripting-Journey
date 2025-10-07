@@ -54,3 +54,12 @@ cleaning the all the files older than 7 days:
       find "$log_dir" -type f -name "*.sh" -mtime +7 -exec rm -f {} \;
       echo -e "files are cleaned older than the 7 days from $log_dir."
       # find "$log_dir" -type f -name "*.sh" -mtime +7   #  used to display the files older than days.
+
+To Display the list of users in server:
+---------------------------------------
+      # !/bin/bash
+      for users in $(w | awk '{ print $1 }') 
+      do
+        echo "The list of users are:$users"
+      done
+          echo "Exit!"
