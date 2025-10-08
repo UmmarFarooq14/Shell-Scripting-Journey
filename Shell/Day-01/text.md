@@ -64,19 +64,19 @@ comments in shell scripting:
 
 2) Multi-line comment:
    -------------------
---> For Mukti line commment we use '<<comment-----comment.'
-   
-   	<< comment
-   	echo "enter the number:"
-   	read num
-   	echo "The number is: $num"
-   	comment
-
-	: '
-	echo "enter the number:"
-   	read num
-   	echo "The number is: $num"
-	'
+		--> For Mukti line commment we use '<<comment-----comment.'
+		   
+		   	<< comment
+		   	echo "enter the number:"
+		   	read num
+		   	echo "The number is: $num"
+		   	comment
+		
+			: '
+			echo "enter the number:"
+		   	read num
+		   	echo "The number is: $num"
+			'
  	
 
 
