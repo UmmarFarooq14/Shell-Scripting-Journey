@@ -53,9 +53,9 @@ There are 4 ways to executable a Shell Script:
 
 comments in shell scripting:
 ----------------------------
-1) Sing-line  line comment.
-2) Multi-line comment.
-3) In-line comment.
+	1) Sing-line  line comment.
+	2) Multi-line comment.
+	3) In-line comment.
 
 1) Single-line comment:
    --------------------
