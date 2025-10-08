@@ -29,6 +29,8 @@ command:
 -------
 
 	echo $SHELL
+	echo $0
+	ps -p $$
 
 
 Shell Scripts:
