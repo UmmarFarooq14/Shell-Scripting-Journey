@@ -8,12 +8,12 @@ What is Bash:
 
 Types of Shells:
 ---------------
-1) SH  (Bourne Shell)--> Stephen Bourne in 1977 at Bell Labs.
-2) BASH(Bourne Again Shell)
-3) KSH (Korn Shell)
-4) CSH ()
-5) ZSH ()
-6) FISH (Friendly Interactive Shell)
+	1) SH  (Bourne Shell)--> Stephen Bourne in 1977 at Bell Labs.
+	2) BASH(Bourne Again Shell)
+	3) KSH (Korn Shell)
+	4) CSH ()
+	5) ZSH ()
+	6) FISH (Friendly Interactive Shell)
 
 To display the shells installed in OS:
 ------------------------------------
