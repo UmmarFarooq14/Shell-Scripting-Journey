@@ -59,8 +59,8 @@ comments in shell scripting:
 
 1) Single-line comment:
    --------------------
-	--> For single-line comment we use '#'.
-			#echo "Hi! Hello world."          
+		--> For single-line comment we use '#'.
+				#echo "Hi! Hello world."          
 
 2) Multi-line comment:
    -------------------
