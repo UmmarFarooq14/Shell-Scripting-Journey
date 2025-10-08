@@ -89,7 +89,9 @@ comments in shell scripting:
 
 Steps to run the shell script:
 ------------------------------
-Step-1: Create a file/directory and add extension as .sh.
+Step-1: 
+------
+		Create a file/directory and add extension as .sh.
 
 
 To create a file:
