@@ -220,8 +220,8 @@ wildcard (Globbing):
 
 		--> Matches any single character (except hidden files starting with . unless explicity specified)
 
-	ls ?.txt             # matches a.txt, b.txt but not abc.txt.
-	ls file?             # matches the file1, file2 but not file10.
+			ls ?.txt             # matches a.txt, b.txt but not abc.txt.
+			ls file?             # matches the file1, file2 but not file10.
 
 
 3) [] --> Matches a one character from set/range:
@@ -229,9 +229,9 @@ wildcard (Globbing):
 
 		--> Use [] for set or range.
 
-	ls file[123].txt     # matches file1.txt, file2.txt, file3.txt.
-	ls file[a-c].txt     # matches filea.txt, fileb.txt, filec.txt.
-	ls file[!0-9].txt    # macthes all the files except from file0,...file9.
+		ls file[123].txt     # matches file1.txt, file2.txt, file3.txt.
+		ls file[a-c].txt     # matches filea.txt, fileb.txt, filec.txt.
+		ls file[!0-9].txt    # macthes all the files except from file0,...file9.
 
 
 Note:
