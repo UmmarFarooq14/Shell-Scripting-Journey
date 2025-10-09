@@ -210,9 +210,9 @@ wildcard (Globbing):
 
 		 Match including everything including a empty string.
 
-	ls *.txt     # It will display all files end with .txt 
-	ls file*     # It will display all the files like file1, file2, file3 ..
-	ls *         # It will display all the files/dir in current directory.
+		ls *.txt     # It will display all files end with .txt 
+		ls file*     # It will display all the files like file1, file2, file3 ..
+		ls *         # It will display all the files/dir in current directory.
 
 
 2) ? --> Matches exactly one character:
