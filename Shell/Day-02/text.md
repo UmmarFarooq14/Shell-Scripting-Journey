@@ -114,9 +114,9 @@ Permissions:
 
 	Every file/dir in linux has three set of  permissions. 
 
-1) User(owner) -- rwx -7
-2) group --rwx -7
-3) Others --rwx -7
+		1) User(owner) -- rwx -7
+		2) group --rwx -7
+		3) Others --rwx -7
 
 	1) R-->Read     -->4
 	2) W-->Write    -->2
