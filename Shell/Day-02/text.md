@@ -143,7 +143,7 @@ For File:
 	Default file permission:     0644 
                                 -------
 
---> We can change the file permission using a chmod command.
+	--> We can change the file permission using a chmod command.
 
 command:
 --------
