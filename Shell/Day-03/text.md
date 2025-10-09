@@ -208,7 +208,7 @@ wildcard (Globbing):
 1) * --> Matches zeros or more characters:
      --------------------------------------
 
-	 Match including everything including a empty string.
+		 Match including everything including a empty string.
 
 	ls *.txt     # It will display all files end with .txt 
 	ls file*     # It will display all the files like file1, file2, file3 ..
@@ -237,6 +237,7 @@ wildcard (Globbing):
 Note:
 -----
 	Globbing is handled by the shell before executing the command.
+	
 	If no files match the pattern some shells return the literal string (ls *.xyz)other may return an error.
 
 
