@@ -244,9 +244,9 @@ Quoting in Shell:
 -----------------
 	It is used to controlling how the shell interprets special characters (*, ?, $, !, /, etc).
 
-1) Single Quote.
-2) Double Quote.
-3) Backslash.
+	1) Single Quote.
+	2) Double Quote.
+	3) Backslash.
 
 
 1) Single Quotes :
