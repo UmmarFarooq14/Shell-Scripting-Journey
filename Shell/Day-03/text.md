@@ -252,7 +252,7 @@ Quoting in Shell:
 
 1) Single Quotes :
    ---------------
-	Everything inside the single quote is literally and No variable expansion and no command substitution.
+		Everything inside the single quote is literally and No variable expansion and no command substitution.
 
 script:
 -------
@@ -260,7 +260,7 @@ script:
 
 2) Double Quotes :
    ---------------
-	preserves most character literally but allows variable expansion and command substitution.
+		preserves most character literally but allows variable expansion and command substitution.
 
 script:
 -------
@@ -271,7 +271,7 @@ script:
 3) Backslash:
    ----------
 
-	Escapes the special meaning of the next character only.
+		Escapes the special meaning of the next character only.
 
 script:
 -------
@@ -280,7 +280,7 @@ script:
 
 Note:
 -----
-	If we want to combine both literal text & Variable expansion in a singlke command.
+		If we want to combine both literal text & Variable expansion in a singlke command.
 
 script:
 -------
