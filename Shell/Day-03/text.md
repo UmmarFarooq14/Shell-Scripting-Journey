@@ -128,8 +128,8 @@ Exit Status:
 	Every command in linux returns an exit status code.
  
 
---> If status code is 0       --- Success 
---> If status code is (1-225) --- Failure.
+	--> If status code is 0       --- Success 
+	--> If status code is (1-225) --- Failure.
 
 script-1: For success
 -------
