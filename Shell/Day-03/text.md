@@ -218,7 +218,7 @@ wildcard (Globbing):
 2) ? --> Matches exactly one character:
    ------------------------------------
 
---> Matches any single character (except hidden files starting with . unless explicity specified)
+		--> Matches any single character (except hidden files starting with . unless explicity specified)
 
 	ls ?.txt             # matches a.txt, b.txt but not abc.txt.
 	ls file?             # matches the file1, file2 but not file10.
@@ -227,7 +227,7 @@ wildcard (Globbing):
 3) [] --> Matches a one character from set/range:
    -------------------------------------------------
 
---> Use [] for set or range.
+		--> Use [] for set or range.
 
 	ls file[123].txt     # matches file1.txt, file2.txt, file3.txt.
 	ls file[a-c].txt     # matches filea.txt, fileb.txt, filec.txt.
