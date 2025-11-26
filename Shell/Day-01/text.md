@@ -1,6 +1,6 @@
 What is Kernel:
 --------------
-
+	It acts as a Inteface between Hardware and softwares.
 
 
 What is Shell:
