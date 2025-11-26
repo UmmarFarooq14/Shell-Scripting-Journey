@@ -87,7 +87,7 @@ comments in shell scripting:
 
 4) In-line comment:
    ----------------
-	--> In line comment placed at the end of the command line to provide brief explanation.
+		--> In line comment placed at the end of the command line to provide brief explanation.
 
 		echo "Hi! Hello"   # This command display the text.
 	
