@@ -24,7 +24,7 @@ Create a directory called practice_day1 and sub-directory is backup & create a t
 
       cp  *.txt practice-day1/backup/
 
- Rename file1.txt → myfile.txt
+ Rename file1.txt → myfile.txt:
  -----------------------------
 
        mv file1.txt myfile.txt
