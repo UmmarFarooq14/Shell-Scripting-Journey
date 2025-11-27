@@ -50,7 +50,7 @@ Display the absolute path of your current working directory:
       age=23
       echo -n "My name is $name & I'm $age years old."
 
- Print the current username and date using command substitution ($())
+ Print the current username and date using command substitution ($()):
  --------------------------------------------------------------------
       uname 
       today=$(date)
