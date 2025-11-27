@@ -113,8 +113,8 @@ command:
 -------
 	mkdir -pv directory-name.sh 
 
-1) -p ---> to create as a parent directory.
-2) -v ---> to display the message of directory is created.
+	1) -p ---> to create as a parent directory.
+	2) -v ---> to display the message of directory is created.
 
 
 Step-2:
