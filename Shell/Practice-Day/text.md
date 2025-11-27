@@ -64,7 +64,7 @@ Display the absolute path of your current working directory:
       read name 
       echo "Hello! $name"
 
-Write a script that asks the user for a number and checks if it is greater than 10 using if
+Write a script that asks the user for a number and checks if it is greater than 10 using if:
 -------------------------------------------------------------------------------------------
 
       echo -n "enter the number:"
