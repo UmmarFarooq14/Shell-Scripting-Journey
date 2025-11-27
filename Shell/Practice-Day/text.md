@@ -43,7 +43,7 @@ Display the absolute path of your current working directory:
       tail -n 5 /etc/passwd
       touch file3.log
 
- Write a script that:Defines variables name and age
+ Write a script that:Defines variables name and age:
  --------------------------------------------------
 
       name="ummar"
