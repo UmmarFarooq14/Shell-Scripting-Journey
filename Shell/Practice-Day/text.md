@@ -19,7 +19,7 @@ Create a directory called practice_day1 and sub-directory is backup & create a t
        touch file{1..2}.txt file3.log
        ls -lrth 
 
- Copy all .txt files to the backup directory
+ Copy all .txt files to the backup directory:
  --------------------------------------------
 
       cp  *.txt practice-day1/backup/
