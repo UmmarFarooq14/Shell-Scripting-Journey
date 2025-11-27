@@ -79,7 +79,7 @@ Write a script that asks the user for a number and checks if it is greater than 
           echo "$num is less-than 10."
       fi
 
- Run a valid command (like ls) and check its exit status ($?). Then run an invalid command and check again
+ Run a valid command (like ls) and check its exit status ($?). Then run an invalid command and check again:
  ---------------------------------------------------------------------------------------------------------
       command="pwd"
       $command
