@@ -1,4 +1,4 @@
-Write a simple shell script (hello.sh) that prints
+Write a simple shell script (hello.sh) that prints:
 ---------------------------------------------------
     echo -n "Hello, world!"
 
