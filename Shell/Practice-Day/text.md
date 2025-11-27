@@ -34,7 +34,7 @@ Create a directory called practice_day1 and sub-directory is backup & create a t
 
       rm file3.log 
 
-Display the absolute path of your current working directory
+Display the absolute path of your current working directory:
 -----------------------------------------------------------
       pwd 
       cat /etc/passwd
