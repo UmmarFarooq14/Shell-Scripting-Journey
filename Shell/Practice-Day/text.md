@@ -57,7 +57,7 @@ Display the absolute path of your current working directory:
       echo "Today is :$today"
       echo 'Today is :$(today)'
 
- Write a script that asks the user for their name (using read) and greets them
+ Write a script that asks the user for their name (using read) and greets them:
  ------------------------------------------------------------------------------
 
       echo -n "enter the name:"
