@@ -18,3 +18,8 @@ Network Files & COmmands:
     * Inteface Detection.
     * Assigning an IP address.
     * Interface Configurstion files.
+         . /etc/nsswitch.conf
+         . /etc/hosts
+         . /etc/sysconfig/network
+         . /etc/sysconfig/network-scripts/ifcfg-nic
+         . /etc/resolv.conf
