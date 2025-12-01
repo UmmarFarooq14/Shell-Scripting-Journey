@@ -16,5 +16,5 @@ Network Components:
 Network Files & COmmands:
 -------------------------
     * Inteface Detection.
-* Assigning an IP address.
+    * Assigning an IP address.
 * Interface Configurstion files.
