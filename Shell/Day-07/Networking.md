@@ -10,5 +10,5 @@ Server:
 
 Network Components:
 -------------------
- * IP                        * Gateway                             * Interface
+     * IP                        * Gateway                             * Interface
  * Subnet Mask               * Static vs .DHCP                     * Inteface MAC
