@@ -12,3 +12,7 @@ Network Components:
 -------------------
      * IP                        * Gateway                             * Interface
      * Subnet Mask               * Static vs .DHCP                     * Inteface MAC
+
+Network Files & COmmands:
+-------------------------
+* Inteface Detection
