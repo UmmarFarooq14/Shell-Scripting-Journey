@@ -7,3 +7,7 @@ Client:
 Server:
 -------
     Server is a piece of computer hardware (or) software that provides functionality for other programs (or) devices, called clients.
+
+Network Components:
+-------------------
+ * IP
