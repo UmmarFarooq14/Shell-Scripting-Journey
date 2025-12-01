@@ -10,4 +10,4 @@ Server:
 
 Network Components:
 -------------------
- * IP                        * Gateway
+ * IP                        * Gateway                             * Interface
