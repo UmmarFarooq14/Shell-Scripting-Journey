@@ -11,3 +11,4 @@ Server:
 Network Components:
 -------------------
  * IP                        * Gateway                             * Interface
+ * Subnet Mask
