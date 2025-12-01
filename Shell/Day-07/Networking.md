@@ -17,4 +17,4 @@ Network Files & COmmands:
 -------------------------
     * Inteface Detection.
     * Assigning an IP address.
-* Interface Configurstion files.
+    * Interface Configurstion files.
