@@ -15,4 +15,5 @@ Network Components:
 
 Network Files & COmmands:
 -------------------------
-* Inteface Detection
+* Inteface Detection.
+* Assigning an IP address.
