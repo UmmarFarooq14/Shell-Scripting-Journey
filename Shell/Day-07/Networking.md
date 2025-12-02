@@ -59,11 +59,16 @@ Disable root login:
        => Become root.
        => Edit you /etc/ssh/sshd_config file & replace permit root login  yes to no.
        => permit root login no.
-       # Systemctl restart sshd.
+       => # Systemctl restart sshd.
 
 Disable Empty Passwords:
 ------------------------
     * You need to prevent remote logins from accounts with empty passwords fro added security.
+        => Become root.
+        => Edit your /etc/ssh/sshd_config file & remove  # from the following line.
+        => permit empty passwords no.
+        => # Systemctl restart sshd.
+        
   
 
 
