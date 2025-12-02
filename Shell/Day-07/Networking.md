@@ -42,7 +42,10 @@ Configure & Secure SSH:
     * Following are the most common configuration an administrator should take to secure SSH.
 
     => Configure Idle Timeout Interal.
-    AVoid having an unattended SSH Session, you can sat an Idle timeout interval.
+    
+     AVoid having an unattended SSH Session, you can sat an Idle timeout interval.
+
+     => Become root.
     
 
   
