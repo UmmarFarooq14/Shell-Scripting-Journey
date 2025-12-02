@@ -55,8 +55,8 @@ Configure & Secure SSH:
     
 Disable root login:
 -------------------
-* Disable root login should be one of the measures you should take when setting up the system for the first time. It disable any user to login to the system with the root account.
-* 
+    * Disable root login should be one of the measures you should take when setting up the system for the first time. It disable any user to login to the system with the root account.
+      
     
 
   
