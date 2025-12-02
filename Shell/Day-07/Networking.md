@@ -38,3 +38,6 @@ Configure & Secure SSH:
     * Provides you with an interface to the linux system. It takes in your commands and translate them to kernel to manage hardware.
 
     * SSH iteself is secure, meaning communication through SSH is always encrypted, but there should be same additional configuration can be done to make it more secure.
+
+    * Following are the most common configuration an administrator should take to secure SSH.
+    
