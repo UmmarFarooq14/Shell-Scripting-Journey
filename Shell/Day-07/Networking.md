@@ -53,7 +53,8 @@ Configure & Secure SSH:
     * The Idle timeout interval you are setting in seconds (600sces  =10 minutes). once the interval has passed, the idle user will be automatically logged out.
 
     
-     
+Disable root login:
+------------------
     
 
   
