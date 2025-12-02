@@ -40,4 +40,10 @@ Configure & Secure SSH:
     * SSH iteself is secure, meaning communication through SSH is always encrypted, but there should be same additional configuration can be done to make it more secure.
 
     * Following are the most common configuration an administrator should take to secure SSH.
+
+    => Configure Idle Timeout Interal.
+    AVoid having an unattended SSH Session, you can sat an Idle timeout interval.
+    
+
+  
     
