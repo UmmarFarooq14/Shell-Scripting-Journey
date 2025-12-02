@@ -56,8 +56,11 @@ Configure & Secure SSH:
 Disable root login:
 -------------------
     * Disable root login should be one of the measures you should take when setting up the system for the first time. It disable any user to login to the system with the root account.
-      
-    
+       => Become root.
+       => Edit you /etc/ssh/sshd_config file & replace permit root login  yes to no.
+       => permit root login no.
+       # Systemctl restart sshd.
+
 
   
     
