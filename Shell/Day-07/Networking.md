@@ -45,7 +45,15 @@ Configure & Secure SSH:
     
      AVoid having an unattended SSH Session, you can sat an Idle timeout interval.
 
-     => Become root.
+         => Become root.
+         => Edit your /etc/ssh/sshd_config file and add the following line:
+         => ClientAlive Interval 600.
+         => ClientAlive count 0.
+         => # Systemctl restart sshd.
+    * The Idle timeout interval you are setting in seconds (600sces  =10 minutes). once the interval has passed, the idle user will be automatically logged out.
+
+    
+     
     
 
   
