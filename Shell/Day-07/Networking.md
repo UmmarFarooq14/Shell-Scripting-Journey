@@ -34,4 +34,4 @@ Configure & Secure SSH:
 -----------------------
 
     SSH Stands for Secure shell.
-* Provides you with an interface to the linux system. It takes in your commands and translate them to kernel to manage hardware.
+    * Provides you with an interface to the linux system. It takes in your commands and translate them to kernel to manage hardware.
