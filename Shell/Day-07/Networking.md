@@ -23,3 +23,7 @@ Network Files & COmmands:
          . /etc/sysconfig/network
          . /etc/sysconfig/network-scripts/ifcfg-nic
          . /etc/resolv.conf
+         
+NIC-Network Interface card:
+---------------------------
+
