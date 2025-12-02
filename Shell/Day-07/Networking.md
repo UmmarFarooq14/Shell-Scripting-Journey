@@ -29,3 +29,8 @@ NIC-Network Interface card:
     lo = The loopback dwvice is a special interface that your computer uses to communicate with itself. It is used mainly for diagnostics and troubleshooting and to connect to servers running on the local  machine.
 
     vibro = The vibro, (or) "virtual bridge o" interface is ud=sed for NAT(Network Address Translation). virtual environments sometimes uses it to connect to the outside network.
+
+Configure & Secure SSH:
+-----------------------
+
+SSH Stands for Secure shell.
