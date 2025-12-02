@@ -61,6 +61,11 @@ Disable root login:
        => permit root login no.
        # Systemctl restart sshd.
 
+Disable Empty Passwords:
+------------------------
+* You need to prevent remote logins from accounts with empty passwords fro added security.
+  
+
 
   
     
