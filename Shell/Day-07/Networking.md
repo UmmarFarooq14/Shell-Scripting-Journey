@@ -63,7 +63,7 @@ Disable root login:
 
 Disable Empty Passwords:
 ------------------------
-* You need to prevent remote logins from accounts with empty passwords fro added security.
+    * You need to prevent remote logins from accounts with empty passwords fro added security.
   
 
 
