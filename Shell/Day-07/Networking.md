@@ -33,4 +33,4 @@ NIC-Network Interface card:
 Configure & Secure SSH:
 -----------------------
 
-SSH Stands for Secure shell.
+    SSH Stands for Secure shell.
