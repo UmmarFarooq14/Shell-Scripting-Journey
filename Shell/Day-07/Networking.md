@@ -81,5 +81,7 @@ Use a different port:
 ---------------------
     * By default SSH port runs on 22 most hackers looking for any open SSH servers will look for port 22 & changing can make system much more secure.
        => Become root.
+       => edit your /etc/ssh/sshd_config file & remove # from the following and change the port number.
+       
        
     
