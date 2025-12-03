@@ -85,5 +85,12 @@ Use a different port:
        => #systemctl restart sshd.
        
 Access Remote server without password(SSh-keys):
+------------------------------------------------
+* Two reasons to access a remote machine
+  => Repetitive logins.
+  => Automation through scripts.
 
+* Keys are generated at user level
+  => ummar
+  => root
     
