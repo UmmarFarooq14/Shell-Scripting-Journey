@@ -90,7 +90,7 @@ Access Remote server without password(SSh-keys):
       => Repetitive logins.
       => Automation through scripts.
 
-* Keys are generated at user level
-  => ummar
-  => root
+    * Keys are generated at user level
+      => ummar
+      => root
     
