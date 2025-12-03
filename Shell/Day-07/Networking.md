@@ -74,7 +74,8 @@ Limit User's SSh access:
     * To prevent another layer of security, you should limit your sshd logins to only certain users who need remote access.
        => Become root.
        => Edit your /etc/ssh/sshd_config file & add.
-  
+       => Allow users user1 user2.
+       
 
 
   
