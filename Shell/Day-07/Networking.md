@@ -79,6 +79,6 @@ Limit User's SSh access:
        
 Use a different port:
 ---------------------
-
+* by default SSH port runs on 22 most hackers looking for any open SSH servers will look for port 22 & changing can make system much more secure.
   
     
