@@ -72,7 +72,7 @@ Disable Empty Passwords:
 Limit User's SSh access:
 ------------------------
     * To prevent another layer of security, you should limit your sshd logins to only certain users who need remote access.
-       
+       => Become root
   
 
 
