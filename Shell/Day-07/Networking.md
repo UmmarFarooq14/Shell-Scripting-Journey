@@ -75,6 +75,7 @@ Limit User's SSh access:
        => Become root.
        => Edit your /etc/ssh/sshd_config file & add.
        => Allow users user1 user2.
+       => #systemctl restart sshd.
        
 
 
