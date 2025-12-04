@@ -107,3 +107,4 @@ FTP: File Transfer Protocol
     => Install and configure FTP on the remote server.
         . # Become root.
         . # rpm -ga | grep ftp
+        . # ping www.google.com
