@@ -97,3 +97,11 @@ Access Remote server without password(SSh-keys):
 FTP: File Transfer Protocol
 ---------------------------
     The FTP is a standard network protocol used for the transfer of computer files b/w a client and server on a computer network. FTP is built on a client-server on a computer network. FTP is built on a client-server model architecture using seperate control and data connections b/w the client & server.
+
+    => Protocol = set of rules used by computer to communicate.
+    => Default FTP port = 21
+    => For this we need  2 linux machines
+        . client = MyfirstlinuxVM
+        . server = LinuxCentos7
+
+    => Install 
