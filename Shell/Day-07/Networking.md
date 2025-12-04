@@ -116,3 +116,6 @@ FTP: File Transfer Protocol
         . # yum install ftp
         . # su - username
         . $ touch kruger
+
+    => Commands to transfer files:
+    
