@@ -113,4 +113,4 @@ FTP: File Transfer Protocol
 
     => Install ftp client on the client server.
         . # Become root.
-        . # 
+        . # yum install ftp
