@@ -110,4 +110,7 @@ FTP: File Transfer Protocol
         . # ping www.google.com
         . # yum install vsftpd
         . # vi /etc/vsftpd/vsftpd.conf
-        
+
+    => Install ftp client on the client server.
+        . # Become root.
+        . # 
