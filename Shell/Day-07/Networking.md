@@ -118,4 +118,6 @@ FTP: File Transfer Protocol
         . $ touch kruger
 
     => Commands to transfer files:
+        . ftp ip address
+        
     
