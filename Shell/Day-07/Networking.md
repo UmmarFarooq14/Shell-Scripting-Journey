@@ -115,3 +115,4 @@ FTP: File Transfer Protocol
         . # Become root.
         . # yum install ftp
         . # su - username
+        . $ touch kruger
