@@ -119,5 +119,7 @@ FTP: File Transfer Protocol
 
     => Commands to transfer files:
         . ftp ip address
+        . enter username & passwd
+        
         
     
