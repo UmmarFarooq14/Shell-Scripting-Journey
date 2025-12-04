@@ -122,6 +122,8 @@ FTP: File Transfer Protocol
         . enter username & passwd
         . bi
         . bash
+        . put Kruger
+        
         
         
         
