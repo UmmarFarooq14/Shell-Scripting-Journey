@@ -121,6 +121,8 @@ FTP: File Transfer Protocol
         . ftp ip address
         . enter username & passwd
         . bi
+        . bash
+        
         
         
     
