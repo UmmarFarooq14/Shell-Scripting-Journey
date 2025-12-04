@@ -104,4 +104,4 @@ FTP: File Transfer Protocol
         . client = MyfirstlinuxVM
         . server = LinuxCentos7
 
-    => Install 
+    => Install and configure FTP on the remote server.
