@@ -105,3 +105,4 @@ FTP: File Transfer Protocol
         . server = LinuxCentos7
 
     => Install and configure FTP on the remote server.
+        . # Become root.
