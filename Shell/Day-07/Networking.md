@@ -123,6 +123,7 @@ FTP: File Transfer Protocol
         . bi
         . bash
         . put Kruger
+        . bye.
         
         
         
