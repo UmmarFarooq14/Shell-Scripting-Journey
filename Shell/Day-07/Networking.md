@@ -108,5 +108,6 @@ FTP: File Transfer Protocol
         . # Become root.
         . # rpm -ga | grep ftp
         . # ping www.google.com
-        . # yum install vaftpd
+        . # yum install vsftpd
+        . # vi /etc/vsftpd/vsftpd.conf
         
