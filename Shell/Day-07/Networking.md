@@ -96,4 +96,4 @@ Access Remote server without password(SSh-keys):
     
 FTP: File Transfer Protocol
 ---------------------------
-The FTP is a standard network protocol used for the transfer of computer files b/w a client and server on a computer network. FTP is built on a client-server on a computer network. FTP is built on a client-server model architecture using seperate control and data connections b/w the client & server.
+    The FTP is a standard network protocol used for the transfer of computer files b/w a client and server on a computer network. FTP is built on a client-server on a computer network. FTP is built on a client-server model architecture using seperate control and data connections b/w the client & server.
