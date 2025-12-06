@@ -7,4 +7,16 @@ FTP: File Transfer Protocol:
          => For this we need 2 Linux Machines.
              . Client = MyFirstLinuxVM
              . Server = LinuxCentos7
+        => Install and configure FTP on the remote server.
+             . # Become root.
+             . # rpm -ga | grep ftp
+             . # yum install vsftpd
+             . # vi /etc/vsftpd/vsftpd.conf
+
+        => Install ftp client on the client server.
+           . # Become root.
+           . # yum install ftp.
+           . # su - username.
+           . # $ touch kruger
+    
         
