@@ -11,3 +11,5 @@ SCP- Secure Copy Protocol:
 rsync- Remote Synchtanization:
 ------------------------------
     . rysnc is a utility for efficiently transferring & synchronzing files within the same computer (or) to a remote computer by comparing the modification times and sizess of files.
+    . rysnc is a lot faster than ftp (or) scp.
+    
