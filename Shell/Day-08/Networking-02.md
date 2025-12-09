@@ -7,3 +7,6 @@ SCP- Secure Copy Protocol:
      . For this we need 2 linux machines
            . client = MyfirstlinuxVM
            . server = Linuxcentos7
+
+rsync- Remote Synchtanization:
+------------------------------
