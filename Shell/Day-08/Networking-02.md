@@ -15,6 +15,7 @@ rsync- Remote Synchtanization:
           . rysnc is a lot faster than ftp (or) scp.
           . This utility is mostly used to backup the files and directories from one server to another .
           . Default rysnc port = 22
+          
         Syntax:
         ------
             rsync -avz filename username@Ipaddress: location 
