@@ -22,10 +22,10 @@ rsync- Remote Synchtanization:
 
 DNS:-Domain Name System
 -----------------------
-Hostname
-  . PTR Record     (IP  to  Hostname)
-  . A Record       (Hostname to IP)
-  . CNAME          (Hostname to Hostname)
+    Hostname
+      . PTR Record     (IP  to  Hostname)
+      . A Record       (Hostname to IP)
+      . CNAME          (Hostname to Hostname)
 
   Files:
   
