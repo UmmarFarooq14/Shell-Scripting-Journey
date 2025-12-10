@@ -19,4 +19,7 @@ rsync- Remote Synchtanization:
         Syntax:
         ------
             rsync -avz filename username@Ipaddress: location 
+
+DNS:-Domain Name System
+-----------------------
     
