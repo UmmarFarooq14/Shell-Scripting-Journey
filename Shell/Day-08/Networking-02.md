@@ -36,6 +36,13 @@ DNS:-Domain Name System
     --------
        . systemctl restart named
 
+    Hostname / IP Lookup:
+    ---------------------
+
+        . commands use dfor DNS lookup
+             . nslookup(Name Server lookup) for a domain IP
+             . dig (domain Interface groper)
+
        
         
   
