@@ -27,5 +27,15 @@ DNS:-Domain Name System
       . A Record       (Hostname to IP)
       . CNAME          (Hostname to Hostname)
 
-  Files:
+     Files:
+     ------
+       . /etc/named.conf
+       . /var/named
+
+    service:
+    --------
+       . systemctl restart named
+
+       
+        
   
