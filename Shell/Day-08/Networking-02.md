@@ -49,8 +49,8 @@ NTP:- Network Time Protocol:
       . Purpose:
            Time Synchronization
        
-  . File:
-      /etc/ntp.conf
+      . File:
+          /etc/ntp.conf
 
   . service:
        systemctl restart ntpd.
