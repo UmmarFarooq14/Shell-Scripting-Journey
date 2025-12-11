@@ -45,7 +45,7 @@ DNS:-Domain Name System
 
        
 NTP:- Network Time Protocol (or) chronyd:
-----------------------------
+----------------------------------------
       . Purpose:
            Time Synchronization
        
