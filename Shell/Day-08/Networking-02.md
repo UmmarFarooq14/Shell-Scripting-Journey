@@ -47,7 +47,7 @@ DNS:-Domain Name System
 NTP:- Network Time Protocol (or) chronyd:
 ----------------------------------------
       . Purpose:
-           Time Synchronization
+           Time Synchronization.
        
       . File:
           /etc/ntp.conf
