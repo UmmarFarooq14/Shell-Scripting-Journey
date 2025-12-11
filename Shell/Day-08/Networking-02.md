@@ -57,6 +57,6 @@ NTP:- Network Time Protocol:
 
       . port:- 123
 
-  . command:
-       ntpd
-  
+      . command:
+           ntpd
+      
