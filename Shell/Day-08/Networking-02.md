@@ -55,7 +55,7 @@ NTP:- Network Time Protocol:
       . service:
            systemctl restart ntpd.
 
-  . port:- 123
+      . port:- 123
 
   . command:
        ntpd
