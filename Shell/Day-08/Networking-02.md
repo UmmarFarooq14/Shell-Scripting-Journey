@@ -52,8 +52,8 @@ NTP:- Network Time Protocol:
       . File:
           /etc/ntp.conf
 
-  . service:
-       systemctl restart ntpd.
+      . service:
+           systemctl restart ntpd.
 
   . port:- 123
 
