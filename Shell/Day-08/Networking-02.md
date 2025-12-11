@@ -58,5 +58,5 @@ NTP:- Network Time Protocol (or) chronyd:
       . port:- 123
 
       . command:
-           ntpd
+            ntpd
       
