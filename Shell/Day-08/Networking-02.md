@@ -44,7 +44,7 @@ DNS:-Domain Name System
              . dig (domain Interface groper)
 
        
-NTP:- Network Time Protocol:
+NTP:- Network Time Protocol (or) chronyd:
 ----------------------------
       . Purpose:
            Time Synchronization
