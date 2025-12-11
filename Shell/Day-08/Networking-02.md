@@ -46,8 +46,8 @@ DNS:-Domain Name System
        
 NTP:- Network Time Protocol:
 ----------------------------
-  . Purpose:
-       Time Synchronization
+      . Purpose:
+           Time Synchronization
        
   . File:
       /etc/ntp.conf
