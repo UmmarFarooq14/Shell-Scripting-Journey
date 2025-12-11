@@ -44,5 +44,19 @@ DNS:-Domain Name System
              . dig (domain Interface groper)
 
        
-        
+NTP:- Network Time Protocol:
+----------------------------
+  . Purpose:
+       Time Synchronization
+       
+  . File:
+      /etc/ntp.conf
+
+  . service:
+       systemctl restart ntpd.
+
+  . port:- 123
+
+  . command:
+       ntpd
   
