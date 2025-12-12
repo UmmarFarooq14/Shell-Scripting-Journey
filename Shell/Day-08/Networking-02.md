@@ -72,6 +72,7 @@ Central Logger:
         . /etc/rsyslog.conf
 
     Service:
+        . systemctl restart rsyslog
     
         
 
