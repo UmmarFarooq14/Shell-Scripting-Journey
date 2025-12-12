@@ -70,5 +70,8 @@ Central Logger:
         
     Configuration File:
         . /etc/rsyslog.conf
+
+    Service:
+    
         
 
