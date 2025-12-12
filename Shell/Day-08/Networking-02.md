@@ -64,4 +64,4 @@ Central Logger:
 ---------------
 Purpose:
 -------
-   . Generate logs (or) collect logs from other server.
+       . Generate logs (or) collect logs from other server.
