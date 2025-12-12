@@ -61,5 +61,5 @@ NTP:- Network Time Protocol (or) chronyd:
             ntpd
 
 Central Logger:
-
+---------------
       
