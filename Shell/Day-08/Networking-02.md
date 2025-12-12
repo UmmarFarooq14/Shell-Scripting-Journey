@@ -69,5 +69,6 @@ Central Logger:
         . rsyslog
         
     Configuration File:
-        .
+        . /etc/rsyslog.conf
+        
 
