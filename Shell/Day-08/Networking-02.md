@@ -66,3 +66,7 @@ Central Logger:
     -------
        . Generate logs (or) collect logs from other server.
 
+    Service (or) Package name:
+    --------------------------
+        . rsyslog
+
