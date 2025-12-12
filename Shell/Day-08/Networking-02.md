@@ -59,4 +59,7 @@ NTP:- Network Time Protocol (or) chronyd:
 
       . command:
             ntpd
+
+Central Logger:
+
       
