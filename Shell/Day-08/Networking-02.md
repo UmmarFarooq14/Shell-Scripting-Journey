@@ -63,7 +63,7 @@ NTP:- Network Time Protocol (or) chronyd:
 Central Logger:
 ---------------
     Purpose:
-    -------
+    
        . Generate logs (or) collect logs from other server.
 
     Service (or) Package name:
