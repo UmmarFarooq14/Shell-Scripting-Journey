@@ -73,6 +73,8 @@ Central Logger:
 
     Service:
         . systemctl restart rsyslog
+        . systemctl start rsyslog
+        
     
         
 
