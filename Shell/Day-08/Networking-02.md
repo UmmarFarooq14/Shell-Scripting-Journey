@@ -36,7 +36,7 @@ DNS:-Domain Name System:-
     --------
        . systemctl restart named
 
-    Hostname / IP Lookup:
+    Hostname / IP Lookup:-
     ---------------------
 
         . commands use dfor DNS lookup
