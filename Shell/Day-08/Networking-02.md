@@ -60,7 +60,7 @@ NTP:- Network Time Protocol (or) chronyd:-
       . command:
             ntpd
 
-Central Logger:
+Central Logger:-
 ---------------
     Purpose:
        . Generate logs (or) collect logs from other server.
