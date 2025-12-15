@@ -20,7 +20,7 @@ rsync- Remote Synchtanization:-
         ------
             rsync -avz filename username@Ipaddress: location 
 
-DNS:-Domain Name System
+DNS:-Domain Name System:-
 -----------------------
     Hostname
       . PTR Record     (IP  to  Hostname)
