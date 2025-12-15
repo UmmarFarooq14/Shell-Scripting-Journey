@@ -46,7 +46,7 @@ DNS:-Domain Name System:-
        
 NTP:- Network Time Protocol (or) chronyd:-
 ----------------------------------------
-      . Purpose:
+      . Purpose:-
            Time Synchronization.
        
       . File:
