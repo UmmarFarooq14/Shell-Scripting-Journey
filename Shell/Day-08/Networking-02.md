@@ -32,7 +32,7 @@ DNS:-Domain Name System:-
        . /etc/named.conf
        . /var/named
 
-    service:
+    service:-
     --------
        . systemctl restart named
 
