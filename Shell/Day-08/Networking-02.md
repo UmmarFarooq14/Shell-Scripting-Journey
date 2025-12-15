@@ -71,7 +71,7 @@ Central Logger:-
     Configuration File:
         . /etc/rsyslog.conf
 
-    Service:
+    Service:-
         . systemctl restart rsyslog
         . systemctl start rsyslog
         . systemctl enable rsyslog
