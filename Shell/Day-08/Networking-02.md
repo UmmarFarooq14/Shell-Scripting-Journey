@@ -49,7 +49,7 @@ NTP:- Network Time Protocol (or) chronyd:-
       . Purpose:-
            Time Synchronization.
        
-      . File:
+      . File:-
           /etc/ntp.conf
 
       . service:
