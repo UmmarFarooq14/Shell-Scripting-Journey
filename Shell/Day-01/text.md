@@ -30,7 +30,7 @@ command:-
 
 To display the current shell:-
 ----------------------------
-command:
+command:-
 -------
 
 	echo $SHELL
