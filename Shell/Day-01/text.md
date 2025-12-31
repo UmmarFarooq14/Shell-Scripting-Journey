@@ -22,7 +22,7 @@ Types of Shells:-
 
 To display the shells installed in OS:-
 ------------------------------------
-command:
+command:-
 --------
 
 	cat /etc/shells
