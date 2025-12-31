@@ -7,3 +7,4 @@ Script Naming Conventions:
 Script Format:
 --------------
 Define Shell (#!/bin/bash).
+comment (# comment).
