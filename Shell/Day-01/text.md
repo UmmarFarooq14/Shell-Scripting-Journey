@@ -20,7 +20,7 @@ Types of Shells:-
 	5) ZSH ()
 	6) FISH (Friendly Interactive Shell)
 
-To display the shells installed in OS:
+To display the shells installed in OS:-
 ------------------------------------
 command:
 --------
