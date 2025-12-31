@@ -7,7 +7,7 @@ What is Shell:-
 --------------
 	A Shell is a program that acts as a interface between user and operating system and it allows user to interact with OS using commands like ls, pwd, touch, cd.
 
-What is Bash:
+What is Bash:-
 ------------
 	Bash is default shell present in the Linux/Centos/Ubuntu to execute the commands and scripts in OS & Bash(Bourne Again Shell) is the updated version sh(Bourne Shell).
 
