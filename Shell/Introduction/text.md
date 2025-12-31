@@ -9,3 +9,4 @@ Script Format:
 Define Shell (#!/bin/bash).
 comment (# comment).
 Define Variables (e.g name = Imran)
+commands (echo, cp, grep etc)
