@@ -56,7 +56,7 @@ There are 4 ways to executable a Shell Script:-
 	3) . file-name.sh
 	4) bash file-name.sh
 
-comments in shell scripting:
+comments in shell scripting:-
 ----------------------------
 	1) Sing-line  line comment.
 	2) Multi-line comment.
