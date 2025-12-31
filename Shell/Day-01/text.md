@@ -3,7 +3,7 @@ What is Kernel:-
 	It acts as a Inteface between Hardware and softwares.
 
 
-What is Shell:
+What is Shell:-
 --------------
 	A Shell is a program that acts as a interface between user and operating system and it allows user to interact with OS using commands like ls, pwd, touch, cd.
 
