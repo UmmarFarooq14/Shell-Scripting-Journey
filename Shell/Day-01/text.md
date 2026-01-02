@@ -109,7 +109,7 @@ command:-
 
 To create a directory:-
 ----------------------
-command:
+command:-
 -------
 	mkdir -pv directory-name.sh 
 
