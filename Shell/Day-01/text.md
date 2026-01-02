@@ -101,7 +101,7 @@ Step-1:-
 
 To create a file:-
 ----------------
-command:
+command:-
 --------
 	touch file-name.sh
 	cat > file-name.sh
