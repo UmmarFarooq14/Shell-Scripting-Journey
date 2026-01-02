@@ -67,7 +67,7 @@ comments in shell scripting:-
 		--> For single-line comment we use '#'.
 				#echo "Hi! Hello world."          
 
-2) Multi-line comment:
+2) Multi-line comment:-
    -------------------
 		--> For Multi line commment we use '<<comment-----comment.'
 		   
