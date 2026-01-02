@@ -107,7 +107,7 @@ command:-
 	cat > file-name.sh
 	vi/vim file-name.sh 
 
-To create a directory:
+To create a directory:-
 ----------------------
 command:
 -------
