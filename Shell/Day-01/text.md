@@ -92,7 +92,7 @@ comments in shell scripting:-
 		echo "Hi! Hello"   # This command display the text.
 	
 
-Steps to run the shell script:
+Steps to run the shell script:-
 ------------------------------
 Step-1: 
 ------
