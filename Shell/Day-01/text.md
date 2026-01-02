@@ -131,7 +131,7 @@ Step-3:-
 -------
 	Check the file permission before execution.
 
-command:
+command:-
 --------
 	ls -l 
 
