@@ -76,6 +76,6 @@ Central Logger:-
         . systemctl start rsyslog
         . systemctl enable rsyslog
         
-    
-        
+NIC Bonding:-
+------------
 
