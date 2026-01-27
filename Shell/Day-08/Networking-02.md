@@ -86,5 +86,5 @@ NIC Bonding:-
 
 Procedure:-
 -----------
-
-    
+. modprobe bonding.
+. modinfo bonding.
