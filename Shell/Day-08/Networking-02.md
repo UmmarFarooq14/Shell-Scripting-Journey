@@ -79,4 +79,4 @@ Central Logger:-
 NIC Bonding:-
 ------------
 
-NIC = Network Interface Bonding
+NIC = Network Interface Card
