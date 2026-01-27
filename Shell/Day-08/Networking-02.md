@@ -79,6 +79,6 @@ Central Logger:-
 NIC Bonding:-
 ------------
 
-NIC = Network Interface Card
+    NIC = Network Interface Card.
 => NIC Bonding is also known as Network bonding. It can be defined as the aggregation (or) COmbination of multiple NIC into a single bond interface.
 
