@@ -83,4 +83,7 @@ NIC Bonding:-
     => NIC Bonding is also known as Network bonding. It can be defined as the aggregation (or) COmbination of multiple NIC into a single bond interface.
     => It's main purpose is to provide high availability and redundancy.
     Inode = It points the no.of files in hard disk.
+
+Procedure:-
+
     
