@@ -85,5 +85,6 @@ NIC Bonding:-
     Inode = It points the no.of files in hard disk.
 
 Procedure:-
+-----------
 
     
