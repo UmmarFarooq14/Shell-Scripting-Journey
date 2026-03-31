@@ -31,7 +31,7 @@ command:-
 To display the current shell:-
 ------------------------------
 command:-
--------
+--------
 
 	echo $SHELL
 	echo $0
