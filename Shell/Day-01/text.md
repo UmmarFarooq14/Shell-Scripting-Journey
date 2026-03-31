@@ -50,7 +50,7 @@ Extension of Shell Script:-
 
 
 There are 4 ways to executable a Shell Script:-
----------------------------------------------
+----------------------------------------------
 	1) sh file-name.sh
 	2) ./file-name.sh
 	3) . file-name.sh
