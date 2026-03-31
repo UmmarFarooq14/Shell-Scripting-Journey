@@ -29,7 +29,7 @@ command:-
 
 
 To display the current shell:-
-----------------------------
+------------------------------
 command:-
 -------
 
