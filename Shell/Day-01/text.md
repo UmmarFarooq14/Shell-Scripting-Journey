@@ -45,7 +45,7 @@ Shell Scripts:-
 
 
 Extension of Shell Script:-
--------------------------
+---------------------------
 	.sh
 
 
