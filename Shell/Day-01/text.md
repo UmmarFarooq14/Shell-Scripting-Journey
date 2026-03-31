@@ -21,7 +21,7 @@ Types of Shells:-
 	6) FISH (Friendly Interactive Shell)
 
 To display the shells installed in OS:-
-------------------------------------
+--------------------------------------
 command:-
 --------
 
