@@ -40,9 +40,6 @@ Features of mkdir:
 -----------------
 	mkdir -v directory-name      # It will create a directory and display the directory is created.
 	mkdir -p dir1/dir1/dir1      # It will create a multiple directories at a time inside the dir1.
-
-
-
 rmdir:
 ------
 	To remove empty directories.
