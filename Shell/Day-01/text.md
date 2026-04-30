@@ -117,7 +117,6 @@ Ex:-
 	vi file-name.sh 
 	--> It will open the file in vi editor--> Press i (To change into insert mode) --> then add the text --> press :wq!(w-->save, q--> quit).
 
-
 Step-3:-
 -------
 	Check the file permission before execution.
