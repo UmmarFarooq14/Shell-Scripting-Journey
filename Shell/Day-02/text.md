@@ -141,8 +141,6 @@ command:
 	chmod g+r filename.        # This command will add a read permission to group.
 	chmod g-x filename.        # This command wiil remove a execute permission for group.
 
-
-
 chown:
 -----
 	To change the ownership of the file/dir.
