@@ -136,7 +136,6 @@ Scenario:
 ---------
 	 If file doesn't contain the execute permission. Then add the execute permission using chmod command.
 
-
 command:
 -------
 	chmod u+x file-name.
