@@ -94,8 +94,6 @@ Features of rm:
 	rm -i file1   # before it ask to user that I'm deleting a file1.
 	rm -rf file1  # removing a file recursevily & forcefully.
 
-
-
 File & Directory Permission:
 ---------------------------
 
