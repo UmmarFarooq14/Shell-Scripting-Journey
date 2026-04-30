@@ -76,7 +76,6 @@ comments in shell scripting:-
 		   	echo "The number is: $num"
 			'
  	
-
 4) In-line comment:-
    ----------------
 		--> In line comment placed at the end of the command line to provide brief explanation.
