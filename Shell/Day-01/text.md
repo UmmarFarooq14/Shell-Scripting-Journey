@@ -24,7 +24,6 @@ command:-
 
 	cat /etc/shells
 
-
 To display the current shell:-
 ------------------------------
 command:-
