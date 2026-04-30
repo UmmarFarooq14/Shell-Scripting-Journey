@@ -43,7 +43,6 @@ Extension of Shell Script:-
 ---------------------------
 	.sh
 
-
 There are 4 ways to executable a Shell Script:-
 ----------------------------------------------
 	1) sh file-name.sh
