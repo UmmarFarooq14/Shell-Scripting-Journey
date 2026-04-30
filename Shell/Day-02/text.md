@@ -71,7 +71,6 @@ Features of cp:
 	cp file1 dir1/          # copying a data from file1 to inside the dir1.
 	cp -r dir1/ dir2/       # copying a data from dir1 to dir2.
 
-
 mv:
 ---
 	move (or) rename a file/dir.
