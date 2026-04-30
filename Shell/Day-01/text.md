@@ -38,7 +38,6 @@ Shell Scripts:-
 
 	Shell Script is a text file contains the group of Linux commands in order to perform the task.
 
-
 Extension of Shell Script:-
 ---------------------------
 	.sh
