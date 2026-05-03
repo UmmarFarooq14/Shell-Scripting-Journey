@@ -27,7 +27,7 @@ Features of cd:-
 	cd ../    # It will get back one step to previous stage.
 	cd ../../ # It will get back two steps to previous stage.
 
-pwd:
+pwd:-
 ----
 	Shows the current working directory path.
 
