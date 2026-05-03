@@ -85,7 +85,7 @@ rm:
 ---
 	removing a file/dir.
 
-Features of rm:
+Features of rm:-
 --------------
 	
 	rm file1      # deleting a file1.
