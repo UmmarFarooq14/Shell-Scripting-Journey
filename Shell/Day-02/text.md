@@ -49,7 +49,7 @@ Features of rmdir:-
 	rmdir             # removes empty directory.
 	rmdir -rf         # to remove non-empty directory.
 	rmdir dir1/dir2   # removes only empty directory.
-touch:
+touch:-
 ------
 	It is Used to create a empty file.
 	
