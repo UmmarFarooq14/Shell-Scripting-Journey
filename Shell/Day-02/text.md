@@ -64,7 +64,7 @@ cp:-
 ---
 	copying a files from one location to another & also copying from files to directories.
 
-Features of cp:
+Features of cp:-
 ---------------
 
 	cp file1 file2          # copying a data from file1 to file2.
