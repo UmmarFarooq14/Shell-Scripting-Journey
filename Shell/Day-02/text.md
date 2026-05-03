@@ -1,7 +1,7 @@
 Basic Linux Commands:-
 ---------------------
 
-ls:
+ls:-
 ---
 	It will display the files & directories in current path.
 
