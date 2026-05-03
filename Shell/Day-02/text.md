@@ -44,7 +44,7 @@ rmdir:-
 ------
 	To remove empty directories.
 
-Features of rmdir:
+Features of rmdir:-
 ------------------
 	rmdir             # removes empty directory.
 	rmdir -rf         # to remove non-empty directory.
