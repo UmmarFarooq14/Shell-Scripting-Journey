@@ -19,7 +19,7 @@ cd:-
 ---
 	Change the directory.
 
-Features of cd:
+Features of cd:-
 ---------------
 	cd ~      # It will go to home directories.
 	cd        # It will go to home directories.
