@@ -15,7 +15,7 @@ Features of ls:-
 	ls -lr  # It will display all the files/directories in reverse order.
 	ls -lt  # It will display the files/directories in table format.
 
-cd:
+cd:-
 ---
 	Change the directory.
 
