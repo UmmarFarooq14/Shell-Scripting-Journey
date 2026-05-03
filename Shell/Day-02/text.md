@@ -53,7 +53,7 @@ touch:-
 ------
 	It is Used to create a empty file.
 	
-Features of touch:
+Features of touch:-
 ------------------	
 
 	touch file-name                # It will create a empty file
