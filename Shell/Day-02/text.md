@@ -5,7 +5,7 @@ ls:-
 ---
 	It will display the files & directories in current path.
 
-Features of ls:
+Features of ls:-
 ---------------
 
 	ls -l   # It will display the files & directories along with Premissions and time, date of creation.
