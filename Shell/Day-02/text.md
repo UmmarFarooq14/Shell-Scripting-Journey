@@ -31,7 +31,7 @@ pwd:-
 ----
 	Shows the current working directory path.
 
-mkdir:
+mkdir:-
 -----
 	used to create a directory.
 
