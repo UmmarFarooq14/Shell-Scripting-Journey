@@ -81,7 +81,7 @@ Features of mv:
 	mv file1 dir1/       # moving a file1 to inside the dir1.
 	mv file1 file1.txt   # renaming a file.
 
-rm:
+rm:-
 ---
 	removing a file/dir.
 
