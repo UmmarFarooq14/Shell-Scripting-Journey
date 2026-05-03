@@ -98,7 +98,7 @@ File & Directory Permission:-
 
 	Every file/directory  has a it's own permission.
 
-Permissions:
+Permissions:-
 ------------
 
 	Every file/dir in linux has three set of  permissions. 
