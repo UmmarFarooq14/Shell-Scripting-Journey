@@ -60,7 +60,7 @@ Features of touch:-
 	touch file-name1 file-name2    # It will create a two empty files.
 
 
-cp:
+cp:-
 ---
 	copying a files from one location to another & also copying from files to directories.
 
