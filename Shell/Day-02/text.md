@@ -119,7 +119,7 @@ For Directories:-
 	Default dir permission:	       0755
                                   ------
 
-For File:
+For File:-
 ---------
 
                                  0666
