@@ -176,7 +176,7 @@ less:-
 -----
 	view file (Scorable) 
 
-command:
+command:-
 --------
 	less file-name
 
