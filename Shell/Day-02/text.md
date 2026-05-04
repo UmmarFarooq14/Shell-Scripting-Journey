@@ -72,7 +72,7 @@ mv:-
 ---
 	move (or) rename a file/dir.
 
-Features of mv:
+Features of mv:-
 ---------------
 
 	mv file1 dir1/       # moving a file1 to inside the dir1.
