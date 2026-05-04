@@ -159,7 +159,7 @@ command:-
 	chown -R :developers project_dir/    # Same by using Chown command
 
 
-cat:
+cat:-
 ----
 	Is used to display the content inside the file and creation of file and also concatenate.
 
