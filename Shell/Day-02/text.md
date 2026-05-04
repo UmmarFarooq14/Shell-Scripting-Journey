@@ -178,7 +178,7 @@ command:-
 --------
 	less file-name
 
-more:
+more:-
 -----
 	view file (like less, but it is older)
 
