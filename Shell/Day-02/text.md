@@ -172,7 +172,7 @@ Fetures of cat:-
 	cat file-name1 >> file-name2                   # It will append the data of file-name2 with data file-name1.
 	cat file-name1 file-name2 > file-name3         # It will add the data of file-name1 & file-name2 into file-name3.
 
-less:
+less:-
 -----
 	view file (Scorable) 
 
