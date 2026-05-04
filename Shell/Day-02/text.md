@@ -34,7 +34,6 @@ mkdir:-
 -----
 	used to create a directory.
 
-
 Features of mkdir:-
 -----------------
 	mkdir -v directory-name      # It will create a directory and display the directory is created.
