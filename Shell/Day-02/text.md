@@ -186,7 +186,7 @@ command:-
 --------
 	more file-name
 
-head:
+head:-
 -----
 	It will diaplay the first few lines.
 
