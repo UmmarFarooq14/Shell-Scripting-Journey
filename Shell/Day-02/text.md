@@ -148,7 +148,7 @@ command:-
 
 
 
-chgrp:
+chgrp:-
 -----
 	To change the ownership of group.
 
