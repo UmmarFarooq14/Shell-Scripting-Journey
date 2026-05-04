@@ -146,8 +146,6 @@ command:-
 	sudo chown newuser file.txt        # change owner
 	sudo chown newuser:newgroup file.txt
 
-
-
 chgrp:-
 -----
 	To change the ownership of group.
@@ -179,8 +177,6 @@ less:-
 command:-
 --------
 	less file-name
-
-
 
 more:
 -----
