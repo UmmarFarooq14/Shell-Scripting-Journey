@@ -130,7 +130,7 @@ For File:-
 
 	--> We can change the file permission using a chmod command.
 
-command:
+command:-
 --------
 
 	chmod g+r filename.        # This command will add a read permission to group.
