@@ -163,7 +163,7 @@ cat:-
 ----
 	Is used to display the content inside the file and creation of file and also concatenate.
 
-Fetures of cat:
+Fetures of cat:-
 ---------------
 
 	cat file-name                                  # It will display the data inside the file.
