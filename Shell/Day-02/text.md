@@ -182,7 +182,7 @@ more:-
 -----
 	view file (like less, but it is older)
 
-command:
+command:-
 --------
 	more file-name
 
