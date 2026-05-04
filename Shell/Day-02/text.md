@@ -57,7 +57,6 @@ Features of touch:-
 	touch file-name                # It will create a empty file
 	touch file-name1 file-name2    # It will create a two empty files.
 
-
 cp:-
 ---
 	copying a files from one location to another & also copying from files to directories.
