@@ -110,7 +110,7 @@ Permissions:-
 
 	File Permission will be depend on the Umask number by default umask number is 0022 and default umask number for file is 0666 & Default umask number for directory is 0777.
 
-For Directories:
+For Directories:-
 ---------------
 
                                    0777
