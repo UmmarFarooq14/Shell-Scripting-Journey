@@ -141,7 +141,7 @@ chown:-
 	To change the ownership of the file/dir.
 
 
-command:
+command:-
 --------
 	sudo chown newuser file.txt        # change owner
 	sudo chown newuser:newgroup file.txt
