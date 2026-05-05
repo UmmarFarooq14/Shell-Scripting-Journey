@@ -135,6 +135,6 @@ command:-
 -------
 	chmod u+x file-name.
 
-Explanation:
+Explanation:-
 ------------
 	This command adds the  execute permission to user.(u-->user , x--->execute-code(1)).
