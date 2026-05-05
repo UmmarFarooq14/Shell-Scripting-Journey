@@ -190,7 +190,6 @@ head:-
 -----
 	It will diaplay the first few lines.
 
-
 Feature of head:
 ----------------
 	head file-name               # It will display the first 10 lines of a file.
