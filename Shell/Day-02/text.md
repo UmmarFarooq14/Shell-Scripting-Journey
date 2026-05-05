@@ -195,7 +195,7 @@ Feature of head:-
 	head file-name               # It will display the first 10 lines of a file.
 	head -n 5 file-name          # It will display the first 5 lines of a file.
 
-tail:
+tail:-
 -----
 	It will display the bottom 10 lines.
 
