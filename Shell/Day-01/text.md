@@ -127,7 +127,7 @@ Explanation:-
 
 	It will display the all files and permissions of files including date, time of creation.
 
-Scenario:
+Scenario:-
 ---------
 	 If file doesn't contain the execute permission. Then add the execute permission using chmod command.
 
