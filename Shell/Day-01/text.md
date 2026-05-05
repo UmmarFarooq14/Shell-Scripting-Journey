@@ -88,7 +88,6 @@ Step-1:-
 ------
 		Create a file/directory and add extension as .sh.
 
-
 To create a file:-
 ----------------
 command:-
