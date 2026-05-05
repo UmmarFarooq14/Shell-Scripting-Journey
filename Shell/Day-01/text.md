@@ -122,7 +122,7 @@ command:-
 --------
 	ls -l 
 
-Explanation:
+Explanation:-
 ------------
 
 	It will display the all files and permissions of files including date, time of creation.
