@@ -73,8 +73,7 @@ comments in shell scripting:-
 			: '
 			echo "enter the number:"
 		   	read num
-		   	echo "The number is: $num"
-			'
+		   	echo "The number is: $num"		'
  
 4) In-line comment:-
    ----------------
