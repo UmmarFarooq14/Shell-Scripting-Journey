@@ -200,7 +200,7 @@ tail:-
 	It will display the bottom 10 lines.
 
 
-Fetaures of tail:
+Fetaures of tail:-
 -----------------
 
 	tail file-name              # It will display the bottom 10 lines.
