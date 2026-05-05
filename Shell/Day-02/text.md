@@ -190,7 +190,7 @@ head:-
 -----
 	It will diaplay the first few lines.
 
-Feature of head:
+Feature of head:-
 ----------------
 	head file-name               # It will display the first 10 lines of a file.
 	head -n 5 file-name          # It will display the first 5 lines of a file.
