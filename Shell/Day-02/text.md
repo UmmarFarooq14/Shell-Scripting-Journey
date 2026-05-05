@@ -199,7 +199,6 @@ tail:-
 -----
 	It will display the bottom 10 lines.
 
-
 Fetaures of tail:-
 -----------------
 
