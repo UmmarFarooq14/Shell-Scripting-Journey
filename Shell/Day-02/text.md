@@ -206,7 +206,7 @@ Fetaures of tail:-
 	tail file-name              # It will display the bottom 10 lines.
 	tail -n 6 file-name         # It will display the bottom 6 lines.
 
-echo:
+echo:-
 -----
 	print text to a terminal.
 
