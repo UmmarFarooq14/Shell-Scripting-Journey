@@ -20,7 +20,7 @@ script-3:-
 	age=23
 	echo -n "My name is: $name and age is: $age "
 
-Environment Variables:
+Environment Variables:-
 ----------------------
 	Environment variables are system-wide variables available for all processess and shells.
 
