@@ -9,7 +9,7 @@ script-1:-
 ---------
 	echo -e "Hi \n Hello"
 
-script-2:
+script-2:-
 ---------
 	greeting="Hi Welcome to Shell World."
 	echo "$greeting"
