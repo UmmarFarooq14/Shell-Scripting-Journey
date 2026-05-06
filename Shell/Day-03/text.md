@@ -1,7 +1,7 @@
 Variables in Shell:-
 -------------------
 
-Defining & Using variables:
+Defining & Using variables:-
 ---------------------------
 	A variable is used to store the data in memory for reusing the sama data  inside the scripts. 
 	--> While assigning the value to a variable no spaces allowed around it.
