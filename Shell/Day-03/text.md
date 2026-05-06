@@ -14,7 +14,6 @@ script-2:
 	greeting="Hi Welcome to Shell World."
 	echo "$greeting"
 
-
 script-3:
 --------
 	name='Ummar'
