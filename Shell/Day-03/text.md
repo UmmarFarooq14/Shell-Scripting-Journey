@@ -43,7 +43,6 @@ script: set an environment variable.
 	echo -n "$course"  
 
 
-
 Command Substitution:
 --------------------
 
