@@ -29,7 +29,7 @@ To View the all Environment Variables:-
 command:-
 --------
 	env
-Some Common Environment variables:
+Some Common Environment variables:-
 ----------------------------------
 	echo $Home                # home directory.
 	echo $USER                # To list the user-loging.
