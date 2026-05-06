@@ -37,7 +37,6 @@ Some Common Environment variables:-
 	echo $path                # search for the current path.
 
 
-
 script: set an environment variable.
 ------
 	export course ="Shell Scripting."
