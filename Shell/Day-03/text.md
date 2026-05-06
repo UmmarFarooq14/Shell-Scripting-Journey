@@ -26,7 +26,7 @@ Environment Variables:-
 
 To View the all Environment Variables:-
 --------------------------------------
-command:
+command:-
 --------
 	env
 Some Common Environment variables:
