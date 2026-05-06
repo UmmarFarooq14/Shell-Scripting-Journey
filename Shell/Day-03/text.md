@@ -29,8 +29,6 @@ To View the all Environment Variables:
 command:
 --------
 	env
-
-
 Some Common Environment variables:
 ----------------------------------
 	echo $Home                # home directory.
