@@ -59,7 +59,6 @@ Method-2:
 	echo -n "The date is :$today"  
 
 
-
 USer Input & Exit Status:
 ------------------------
 read command:
