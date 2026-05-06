@@ -24,7 +24,6 @@ Environment Variables:
 ----------------------
 	Environment variables are system-wide variables available for all processess and shells.
 
-
 To View the all Environment Variables:
 --------------------------------------
 command:
