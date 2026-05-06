@@ -58,7 +58,6 @@ Method-2:
 	today=`date`
 	echo -n "The date is :$today"  
 
-
 USer Input & Exit Status:
 ------------------------
 read command:
