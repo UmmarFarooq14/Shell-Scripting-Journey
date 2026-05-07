@@ -48,7 +48,7 @@ Command Substitution:-
 
 	command substitution let you store the output of a command into a variable.     
 
-Method-1: 
+Method-1:-
 --------
 	today=$(date)
 	echo -n "The date is :$today" 
