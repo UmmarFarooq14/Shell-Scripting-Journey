@@ -148,7 +148,7 @@ output:-
 -------
 	/bin/bash
 
-command:
+command:-
 --------
 	which python3
 
