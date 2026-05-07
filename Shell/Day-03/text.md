@@ -107,7 +107,6 @@ script-7: reading from a file.
 	done < /etc/passwd
 	
 
-
 Exit Status:
 ------------
 	Every command in linux returns an exit status code.
