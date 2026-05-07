@@ -156,7 +156,7 @@ output:-
 -------
 	/usr/bin/python3
 
-type command:
+type command:-
 -------------
 	Display a command how it is interpreted by a shell & expalins about the if a command is built-in, an alias or a external program.
 
