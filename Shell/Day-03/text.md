@@ -42,7 +42,6 @@ script: set an environment variable.
 	export course ="Shell Scripting."
 	echo -n "$course"  
 
-
 Command Substitution:-
 --------------------
 
