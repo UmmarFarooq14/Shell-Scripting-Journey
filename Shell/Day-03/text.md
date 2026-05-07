@@ -141,7 +141,7 @@ which command:-
 --------------
 	shows the full path of an executable command and helpful to check the whether command/program is located.
 
-command:
+command:-
 --------
 	which bash
 output:
