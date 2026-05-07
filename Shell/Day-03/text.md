@@ -180,8 +180,6 @@ command:
 	2) press b to scroll up.
 	3) press q to quit.
 
-
-
 wildcard (Globbing):
 -------------------
 	wildcards are the special characters in linux/unix shell that used to match the patterns when working with files/directories is called Globbing.
