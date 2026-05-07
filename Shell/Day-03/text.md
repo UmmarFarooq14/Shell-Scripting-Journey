@@ -110,7 +110,6 @@ script-7: reading from a file.
 	
 
 
-
 Exit Status:
 ------------
 	Every command in linux returns an exit status code.
