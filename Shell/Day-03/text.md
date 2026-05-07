@@ -53,7 +53,7 @@ Method-1:-
 	today=$(date)
 	echo -n "The date is :$today" 
 
-Method-2:
+Method-2:-
 --------
 	today=`date`
 	echo -n "The date is :$today"  
