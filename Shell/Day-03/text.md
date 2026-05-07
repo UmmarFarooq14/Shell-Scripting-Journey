@@ -77,7 +77,6 @@ script-2: reading the two numbers
 	read a b
 	echo -e "The value of a is:$a \n The value of b is: $b."
 
-
 script-3: silent Input (It won't display the password on terminal)
 -------- 
 
