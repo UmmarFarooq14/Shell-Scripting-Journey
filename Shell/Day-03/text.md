@@ -152,7 +152,7 @@ command:-
 --------
 	which python3
 
-output:
+output:-
 -------
 	/usr/bin/python3
 
