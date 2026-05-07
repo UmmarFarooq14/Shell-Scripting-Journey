@@ -59,7 +59,7 @@ Method-2:-
 
 USer Input & Exit Status:-
 ------------------------
-read command:
+read command:-
 ------------
 	It will read the input from user and store in a variable.
 
