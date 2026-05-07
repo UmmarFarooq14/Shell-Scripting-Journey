@@ -43,7 +43,7 @@ script: set an environment variable.
 	echo -n "$course"  
 
 
-Command Substitution:
+Command Substitution:-
 --------------------
 
 	command substitution let you store the output of a command into a variable.     
