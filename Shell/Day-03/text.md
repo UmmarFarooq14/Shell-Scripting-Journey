@@ -144,7 +144,7 @@ which command:-
 command:-
 --------
 	which bash
-output:
+output:-
 -------
 	/bin/bash
 
