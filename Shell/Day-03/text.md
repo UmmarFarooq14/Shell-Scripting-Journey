@@ -137,7 +137,7 @@ script-3: To check the file is exit or not exist in server.
 	fi 
 
 
-which command:
+which command:-
 --------------
 	shows the full path of an executable command and helpful to check the whether command/program is located.
 
