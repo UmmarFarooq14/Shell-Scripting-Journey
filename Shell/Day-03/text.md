@@ -248,7 +248,7 @@ script:
 
 		Escapes the special meaning of the next character only.
 
-script:
+script:-
 -------
 	echo "My name is \$name."
 	echo "It\'s very nice."
