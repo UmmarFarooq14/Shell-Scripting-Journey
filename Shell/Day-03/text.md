@@ -215,8 +215,7 @@ Note:-
 	
 	If no files match the pattern some shells return the literal string (ls *.xyz)other may return an error.
 
-
-Quoting in Shell:
+Quoting in Shell:-
 -----------------
 	It is used to controlling how the shell interprets special characters (*, ?, $, !, /, etc).
 
