@@ -243,7 +243,7 @@ script:
 	echo -n "Today date is:$(date)"
 
 
-3) Backslash:
+3) Backslash:-
    ----------
 
 		Escapes the special meaning of the next character only.
