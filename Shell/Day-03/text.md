@@ -181,7 +181,7 @@ wildcard (Globbing):-
 	wildcards are the special characters in linux/unix shell that used to match the patterns when working with files/directories is called Globbing.
 
 
-1) * --> Matches zeros or more characters:
+1) * --> Matches zeros or more characters:-
      --------------------------------------
 
 		 Match including everything including a empty string.
