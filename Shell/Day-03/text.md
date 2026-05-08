@@ -190,7 +190,7 @@ wildcard (Globbing):-
 			ls file*     # It will display all the files like file1, file2, file3 ..
 			ls *         # It will display all the files/dir in current directory.
 
-2) ? --> Matches exactly one character:
+2) ? --> Matches exactly one character:-
    ------------------------------------
 
 		--> Matches any single character (except hidden files starting with . unless explicity specified)
