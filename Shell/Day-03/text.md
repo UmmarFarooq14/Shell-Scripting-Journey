@@ -200,7 +200,7 @@ wildcard (Globbing):-
 
 
 3) [] --> Matches a one character from set/range:-
-   -------------------------------------------------
+   ----------------------------------------------
 
 		--> Use [] for set or range.
 
