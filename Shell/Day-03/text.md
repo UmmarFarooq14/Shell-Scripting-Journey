@@ -255,6 +255,3 @@ Note:-
 script:-
 -------
 	echo 'My name is:' "$name"
-
-
- 
