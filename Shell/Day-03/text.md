@@ -253,7 +253,7 @@ script:
 	echo "My name is \$name."
 	echo "It\'s very nice."
 
-Note:
+Note:-
 -----
 		If we want to combine both literal text & Variable expansion in a singlke command.
 
