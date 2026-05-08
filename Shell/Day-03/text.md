@@ -160,7 +160,7 @@ type command:-
 -------------
 	Display a command how it is interpreted by a shell & expalins about the if a command is built-in, an alias or a external program.
 
-command:
+command:-
 --------
 	type ls           # ls is aliased to 'ls --color=auto'
 	type bash         # bash is /bin/bash.
