@@ -169,7 +169,7 @@ man command: (Manual Pages)
 ----------- 
 	man command is used helpful for the more abouth the linux command.
 
-command:
+command:-
 --------
 	man ls
 
