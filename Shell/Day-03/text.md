@@ -224,7 +224,7 @@ Quoting in Shell:-
    ---------------
 		Everything inside the single quote is literally and No variable expansion and no command substitution.
 
-script:
+script:-
 -------
 	echo -n 'Enter the name'
 
