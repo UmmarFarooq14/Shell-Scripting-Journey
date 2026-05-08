@@ -232,7 +232,7 @@ script:-
    ---------------
 		preserves most character literally but allows variable expansion and command substitution.
 
-script:
+script:-
 -------
 	echo -e "The value of a is: $a \n The value of b is: $b"
 	echo -n "Today date is:$(date)"
