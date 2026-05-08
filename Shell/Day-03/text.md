@@ -199,7 +199,7 @@ wildcard (Globbing):-
 			ls file?             # matches the file1, file2 but not file10.
 
 
-3) [] --> Matches a one character from set/range:
+3) [] --> Matches a one character from set/range:-
    -------------------------------------------------
 
 		--> Use [] for set or range.
