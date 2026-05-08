@@ -209,7 +209,7 @@ wildcard (Globbing):-
 		ls file[!0-9].txt    # macthes all the files except from file0,...file9.
 
 
-Note:
+Note:-
 -----
 	Globbing is handled by the shell before executing the command.
 	
