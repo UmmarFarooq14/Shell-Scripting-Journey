@@ -180,7 +180,6 @@ wildcard (Globbing):-
 -------------------
 	wildcards are the special characters in linux/unix shell that used to match the patterns when working with files/directories is called Globbing.
 
-
 1) * --> Matches zeros or more characters:-
      --------------------------------------
 
@@ -198,7 +197,6 @@ wildcard (Globbing):-
 			ls ?.txt             # matches a.txt, b.txt but not abc.txt.
 			ls file?             # matches the file1, file2 but not file10.
 
-
 3) [] --> Matches a one character from set/range:-
    ----------------------------------------------
 
@@ -207,7 +205,6 @@ wildcard (Globbing):-
 		ls file[123].txt     # matches file1.txt, file2.txt, file3.txt.
 		ls file[a-c].txt     # matches filea.txt, fileb.txt, filec.txt.
 		ls file[!0-9].txt    # macthes all the files except from file0,...file9.
-
 
 Note:-
 -----
@@ -223,8 +220,7 @@ Quoting in Shell:-
 	2) Double Quote.
 	3) Backslash.
 
-
-1) Single Quotes :
+1) Single Quotes :-
    ---------------
 		Everything inside the single quote is literally and No variable expansion and no command substitution.
 
