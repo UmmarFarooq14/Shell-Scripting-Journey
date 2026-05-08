@@ -228,7 +228,7 @@ script:-
 -------
 	echo -n 'Enter the name'
 
-2) Double Quotes :
+2) Double Quotes :-
    ---------------
 		preserves most character literally but allows variable expansion and command substitution.
 
