@@ -102,7 +102,7 @@ script-4: To check whether the string is empty or not.
 	    echo "$String is empty."
 	fi
 
-Files Test Operators:
+Files Test Operators:-
 --------------------
 
 	-f                       # To check the file.
