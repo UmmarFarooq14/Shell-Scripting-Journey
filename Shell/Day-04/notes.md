@@ -90,7 +90,6 @@ script-3: comparison of two numbers.
 	-z                          # String is empty.
 	-n                          # string is not empty.
 
-
 script-4: To check whether the string is empty or not.
 ---------
 
