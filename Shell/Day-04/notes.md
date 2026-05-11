@@ -59,7 +59,6 @@ script-2: Grading System.
 	else
 	    echo "For $marks marks Grade is: C."
 	fi
-s
 Operators in Shell:
 -------------------
 Integers comparison operator:
