@@ -60,7 +60,7 @@ script-2: Grading System.
 	fi
 Operators in Shell:-
 -------------------
-Integers comparison operator:
+Integers comparison operator:-
 -----------------------------
 
 	-eq                        # Equal to operator.
