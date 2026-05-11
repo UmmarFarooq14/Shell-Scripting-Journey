@@ -82,7 +82,7 @@ script-3: comparison of two numbers.
 	    echo "$b is greater then $a."
 	fi
 
- String comparison operator:
+ String comparison operator:-
 ----------------------------
 
 	 =                          # Equal.
