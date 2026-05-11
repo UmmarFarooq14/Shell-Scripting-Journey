@@ -123,7 +123,6 @@ script-5: To check whether it is a file or not.
 	    echo "$file is not a file."
 	fi
 
-
 script-6:  To check whether it is a directory or not.
 ---------
 
