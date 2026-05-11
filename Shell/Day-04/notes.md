@@ -83,7 +83,7 @@ script-3: comparison of two numbers.
 	fi
 
  String comparison operator:
---------------------------
+----------------------------
 
 	 =                          # Equal.
 	!=                          # Not-equal.
