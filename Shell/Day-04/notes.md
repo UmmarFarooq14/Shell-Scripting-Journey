@@ -70,7 +70,6 @@ Integers comparison operator:
 	-le                        # Less-than or equal to operator.
 	-ge                        # Greater-than or equal to operator.
 
-
 script-3: comparison of two numbers.
 ---------
 
