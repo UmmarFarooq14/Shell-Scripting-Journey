@@ -17,7 +17,6 @@ syntax  for if -ellse:-
 	    echo "       "
 	fi
  
-
 syntax for elif:-
 ----------------
 
