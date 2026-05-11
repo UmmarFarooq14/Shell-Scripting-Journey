@@ -179,7 +179,7 @@ Loops in Shell:-
 		Used to iterate over list of items until the condition gets false.
 
 
-syntax for for loop:
+syntax for for loop:-
 --------------------
 
 	for var in lists
