@@ -18,7 +18,7 @@ syntax  for if -ellse:-
 	fi
  
 
-syntax for elif:
+syntax for elif:-
 ----------------
 
 	if [              ]
