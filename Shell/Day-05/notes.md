@@ -34,7 +34,6 @@ script-01: Check if a number is positive and even.
 	    echo -e "$num is not positive."
 	fi
 
-
 script-02: Check if file exists and is readable.
 ----------
 
