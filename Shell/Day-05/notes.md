@@ -52,7 +52,7 @@ script-02: Check if file exists and is readable.
 	    echo -e "File does not exist!."
 	fi
 
-2) Else-if-Ladder:
+2) Else-if-Ladder:-
    ---------------
 		when we have multiple conditions, use elif instead of nested if's.
 
