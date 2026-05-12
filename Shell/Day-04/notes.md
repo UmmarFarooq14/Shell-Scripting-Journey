@@ -207,7 +207,7 @@ script-11: Loop over files.
 
 		Executes commands until unless condition gets true.
 
-syntax for While:
+syntax for While:-
 -----------------
 
 	while [  ] 
