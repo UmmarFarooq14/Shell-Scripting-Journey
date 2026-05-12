@@ -72,7 +72,6 @@ syntax:-
 	    commands
 	fi
 
-
 script-03: Checking file types.
 ----------
 
