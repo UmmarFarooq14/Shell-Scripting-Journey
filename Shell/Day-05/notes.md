@@ -93,7 +93,7 @@ script-03: Checking file types.
    ---------------
 		The case statement is used when we need to match a value against multiple patterns. It’s more readable than long elif ladders.
 
-syntax:
+syntax:-
 ------
 	case Variable in
 	      pattern1)
