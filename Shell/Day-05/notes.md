@@ -56,7 +56,7 @@ script-02: Check if file exists and is readable.
    ---------------
 		when we have multiple conditions, use elif instead of nested if's.
 
-syntax:
+syntax:-
 -------
 
 	if [condition1]
