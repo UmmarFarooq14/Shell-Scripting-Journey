@@ -30,7 +30,7 @@ syntax for elif:-
 	    echo "        " 
 	fi 
 
-script-1: Check the number is +ve or -ve.
+script-1: Check the number is +ve or -ve
 ---------
 
 	echo -n "Enter the number:"
