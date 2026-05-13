@@ -157,7 +157,7 @@ script -8: To check whether the file has a execute permission or  not
 	fi
 
 
-script-9: To chekc whether the file has a write permission or not.
+script-9: To chekc whether the file has a write permission or not
 ---------
 
 	file="sum.sh"
