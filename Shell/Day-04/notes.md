@@ -252,7 +252,7 @@ script-14: To check the multiple conditions.
 	    echo "Eligible age group."
 	fi.
 
-script-15: Multiple-driven.
+script-15: Multiple-driven
 ---------
 
 	echo -e "1.show the current date."
