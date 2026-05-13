@@ -43,7 +43,7 @@ script-1: Check the number is +ve or -ve
 	    echo " $num is -ve."
 	fi
 
-script-2: Grading System.
+script-2: Grading System
 ---------
 
 	echo -n "Enter the marks:"
