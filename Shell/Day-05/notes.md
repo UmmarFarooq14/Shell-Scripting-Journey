@@ -17,7 +17,7 @@ syntax:-
 	    commands
 	fi
 
-script-01: Check if a number is positive and even.
+script-01: Check if a number is positive and even
 ----------
 
 	echo -n "Enter the number:"
