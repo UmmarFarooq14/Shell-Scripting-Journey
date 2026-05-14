@@ -182,7 +182,6 @@ script-07: Write a script that accepts a number from the user and classifies it 
 	else
 	    echo -e "$num is a large number."
 	fi
-
 script-08: To automate the scripts backups
 ----------
 
