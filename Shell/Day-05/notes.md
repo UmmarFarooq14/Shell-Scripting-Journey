@@ -106,8 +106,6 @@ syntax:-
 	      *)
 	          commands  ;;
 	easc
-
-
 script-04: Day of the week
 ----------
 	day=$(date +%a)
