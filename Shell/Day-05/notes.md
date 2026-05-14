@@ -147,7 +147,7 @@ script-05: Menu-driven program
 	esac
 
 
-script-06: Calculator using case statement.
+script-06: Calculator using case statement
 ---------
 
 	echo -e """**** CALCULATOR ****"""
