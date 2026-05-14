@@ -126,7 +126,6 @@ script-04: Day of the week
 			  echo  -e "Mid of the week!." ;;
 	esac
 	   
-
 script-05: Menu-driven program
 ----------
 
