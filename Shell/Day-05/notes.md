@@ -127,7 +127,7 @@ script-04: Day of the week
 	esac
 	   
 
-script-05: Menu-driven program.
+script-05: Menu-driven program
 ----------
 
 	echo -n """ ***Menu*** """
