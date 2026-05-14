@@ -188,7 +188,7 @@ script-07: Write a script that accepts a number from the user and classifies it 
 	    echo -e "$num is a large number."
 	fi
 
-script-08: To automate the scripts backups.
+script-08: To automate the scripts backups
 ----------
 
 	source="*.sh"
