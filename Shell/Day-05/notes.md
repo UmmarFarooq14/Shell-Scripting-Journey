@@ -144,8 +144,6 @@ script-05: Menu-driven program
 	        5) echo "Existing!...." ;;
 	        *) echo "-----Invalid Choice----" ;;
 	esac
-
-
 script-06: Calculator using case statement
 ---------
 
