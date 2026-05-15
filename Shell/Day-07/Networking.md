@@ -51,7 +51,6 @@ Configure & Secure SSH:-
          => ClientAlive count 0.
          => # Systemctl restart sshd.
     * The Idle timeout interval you are setting in seconds (600sces  =10 minutes). once the interval has passed, the idle user will be automatically logged out.
-
     
 Disable root login:
 -------------------
