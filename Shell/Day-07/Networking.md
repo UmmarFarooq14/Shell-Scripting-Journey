@@ -24,7 +24,7 @@ Network Files & COmmands:-
          . /etc/sysconfig/network-scripts/ifcfg-nic
          . /etc/resolv.conf
          
-NIC-Network Interface card:
+NIC-Network Interface card:-
 ---------------------------
     lo = The loopback dwvice is a special interface that your computer uses to communicate with itself. It is used mainly for diagnostics and troubleshooting and to connect to servers running on the local  machine.
 
