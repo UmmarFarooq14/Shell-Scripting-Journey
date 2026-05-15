@@ -49,7 +49,7 @@ script-4: loop over logged-in users.
 	  echo -e "Logged-in users are: $users"
 	done
 
-2) while loop:
+2) while loop:-
    -----------
 syntax:
 -------
