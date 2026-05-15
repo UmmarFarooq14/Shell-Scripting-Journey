@@ -30,7 +30,7 @@ NIC-Network Interface card:-
 
     vibro = The vibro, (or) "virtual bridge o" interface is ud=sed for NAT(Network Address Translation). virtual environments sometimes uses it to connect to the outside network.
 
-Configure & Secure SSH:
+Configure & Secure SSH:-
 -----------------------
 
     SSH Stands for Secure shell.
