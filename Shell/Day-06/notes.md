@@ -51,7 +51,7 @@ script-4: loop over logged-in users.
 
 2) while loop:-
    -----------
-syntax:
+syntax:-
 -------
 
 	while [ condition ]
