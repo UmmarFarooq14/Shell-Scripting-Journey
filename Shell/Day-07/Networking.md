@@ -8,7 +8,7 @@ Server:-
 -------
     Server is a piece of computer hardware (or) software that provides functionality for other programs (or) devices, called clients.
 
-Network Components:
+Network Components:-
 -------------------
      * IP                        * Gateway                             * Interface
      * Subnet Mask               * Static vs .DHCP                     * Inteface MAC
