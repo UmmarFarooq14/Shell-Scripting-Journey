@@ -10,7 +10,7 @@ In Shell Scripting, common loops are:-
 
 1) For loop:-
    ---------
-syntax:
+syntax:-
 -------
 	for variables in list
 	do
