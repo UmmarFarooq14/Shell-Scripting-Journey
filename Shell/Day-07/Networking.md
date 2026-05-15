@@ -13,7 +13,7 @@ Network Components:-
      * IP                        * Gateway                             * Interface
      * Subnet Mask               * Static vs .DHCP                     * Inteface MAC
 
-Network Files & COmmands:
+Network Files & COmmands:-
 -------------------------
     * Inteface Detection.
     * Assigning an IP address.
