@@ -59,8 +59,6 @@ syntax:-
 	  commands
 	done
 
-
-
 script-5: Monitoring cpu usage
 ---------
 
