@@ -52,7 +52,7 @@ Configure & Secure SSH:-
          => # Systemctl restart sshd.
     * The Idle timeout interval you are setting in seconds (600sces  =10 minutes). once the interval has passed, the idle user will be automatically logged out.
     
-Disable root login:
+Disable root login:-
 -------------------
     * Disable root login should be one of the measures you should take when setting up the system for the first time. It disable any user to login to the system with the root account.
        => Become root.
