@@ -1,8 +1,6 @@
 Write a simple shell script (hello.sh) that prints:-
 ---------------------------------------------------
     echo -n "Hello, world!"
-
-
 Check which shell you are using and list all available shells on your system:-
 -----------------------------------------------------------------------------
 
