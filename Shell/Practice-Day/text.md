@@ -23,7 +23,6 @@ Create a directory called practice_day1 and sub-directory is backup & create a t
        mv file1.txt myfile.txt
  Remove file3.log:
  -----------------
-
       rm file3.log 
 
 Display the absolute path of your current working directory:
