@@ -56,7 +56,6 @@ Display the absolute path of your current working directory:
 
 Write a script that asks the user for a number and checks if it is greater than 10 using if:
 -------------------------------------------------------------------------------------------
-
       echo -n "enter the number:"
       read num 
       if [ $num -gt 10 ]
