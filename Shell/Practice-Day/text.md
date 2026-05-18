@@ -3,7 +3,6 @@ Write a simple shell script (hello.sh) that prints:-
     echo -n "Hello, world!"
 Check which shell you are using and list all available shells on your system:-
 -----------------------------------------------------------------------------
-
       1) echo $SHELL
       2) echo $0
       3) ps -p $$
