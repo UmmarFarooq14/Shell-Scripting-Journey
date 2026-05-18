@@ -50,7 +50,6 @@ Display the absolute path of your current working directory:
 
  Write a script that asks the user for their name (using read) and greets them:
  ------------------------------------------------------------------------------
-
       echo -n "enter the name:"
       read name 
       echo "Hello! $name"
