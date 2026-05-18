@@ -107,7 +107,6 @@ Write a script that asks the user for a number and checks if it is greater than 
       type echo
       location=$(which echo)
       echo "Location is:$location"
-
  Open the man page of cp and find how to copy a directory recursively
  --------------------------------------------------------------------
 
