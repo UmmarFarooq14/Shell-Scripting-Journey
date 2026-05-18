@@ -16,7 +16,6 @@ Create a directory called practice_day1 and sub-directory is backup & create a t
 
  Copy all .txt files to the backup directory:
  --------------------------------------------
-
       cp  *.txt practice-day1/backup/
 
  Rename file1.txt → myfile.txt:
