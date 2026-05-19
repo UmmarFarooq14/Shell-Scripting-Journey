@@ -50,7 +50,7 @@ Cleaning the all the files older than 7 days:-
       echo -e "files are cleaned older than the 7 days from $log_dir."
       
 To display the files older than 7 days:
--------------------------------------
+--------------------------------------
       
       # find "$log_dir" -type f -name "*.sh" -mtime +7   
 
