@@ -42,7 +42,7 @@ Log-Monitoring Script:-
       error_count=$( grep -i "error" "$log_file" | wc -l )
       echo -e "Warning! $error_count found in $log_file."
 
-Cleaning the all the files older than 7 days:
+Cleaning the all the files older than 7 days:-
 ---------------------------------------------
       # !/bin/bash
       log_dir=""
