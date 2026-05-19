@@ -1,4 +1,4 @@
-SCRIPT FOR CPU UTILIZATION ALERT:
+SCRIPT FOR CPU UTILIZATION ALERT:-
 ---------------------------------
       #!/bin/bash
      Threshold=80;
