@@ -32,8 +32,6 @@ SCRIPT FOR DISK UTILIZATION:-
 
 Log-Monitoring Script:-
 ----------------------
-
-
       # !/bin/bash
       log_file="/var/log/syslog"
       if [ ! -f "$log_file" ]
