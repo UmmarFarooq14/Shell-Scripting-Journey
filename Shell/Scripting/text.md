@@ -44,7 +44,6 @@ Log-Monitoring Script:-
 
 Cleaning the all the files older than 7 days:
 ---------------------------------------------
-
       # !/bin/bash
       log_dir=""
       find "$log_dir" -type f -name "*.sh" -mtime +7 -exec rm -f {} \;
