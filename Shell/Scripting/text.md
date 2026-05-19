@@ -64,7 +64,6 @@ To display the files equal to 7 days:
       
       # find "$log_dir" -type f -name "*.sh" -mtime 7   
       
-
 To Display the list of users in server:
 ---------------------------------------
       # !/bin/bash
