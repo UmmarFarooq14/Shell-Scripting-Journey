@@ -30,7 +30,7 @@ SCRIPT FOR DISK UTILIZATION:-
               echo -e "Disk_usage is normal :(<= {Thershold}%)"
           fi
 
-Log-Monitoring Script:
+Log-Monitoring Script:-
 ----------------------
 
 
