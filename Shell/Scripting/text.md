@@ -10,7 +10,6 @@ SCRIPT FOR CPU UTILIZATION ALERT:-
          echo "CPU Utilization is Normal: ${cpu}%."
      fi
 
-
 SCRIPT FOR DISK UTILIZATION:
 ----------------------------
 
